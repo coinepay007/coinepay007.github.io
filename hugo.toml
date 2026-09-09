@@ -27,8 +27,8 @@ buildExpired = false
 [params]
   env = 'production'
   title = 'coinepay007'
-  description = '个人技术博客'
-  keywords = ['blog', 'hugo']
+  description = '一张虚拟卡搞定 AI 服务订阅、海外会员开通与跨境消费，实时充值、即开即用'
+  keywords = ['虚拟信用卡', 'ChatGPT订阅', '海外会员', '虚拟卡开通', 'Coinepay']
   DateFormat = '2006-01-02'
   defaultTheme = 'auto'      # auto / light / dark
   disableThemeToggle = false
@@ -47,8 +47,30 @@ buildExpired = false
   comments = false
 
   [params.homeInfoParams]
-    Title = '你好 👋'
-    Content = '欢迎来到我的博客。'
+    Title = 'Coinepay · 海外订阅与消费'
+    Content = '''
+想订 ChatGPT Plus、Claude，或者开个 YouTube Premium、Netflix，卡在支付这一步——这大概是最常见的情况。
+
+国内的卡在这些平台上经常过不去，不是被拒就是反复验证。虚拟卡解决的就是这件事：
+
+**能用来做什么**
+
+订阅 ChatGPT、Claude、Midjourney 等 AI 服务；开通 YouTube、Netflix、Spotify 会员；注册美区 Apple ID 并绑卡；投放 Facebook、Google、TikTok 广告；海外网站购物与各类线上服务。
+
+**怎么用**
+
+注册后在线开卡，实时充值，卡号立即可用，不用等实体卡邮寄。支持多币种结算，按实际消费扣款。
+
+开卡遇到问题随时找人工，**Telegram [@coinepayqi](https://t.me/coinepayqi)** · **[WhatsApp](https://wa.me/message/2I3GXEELDVMHP1)**
+'''
+
+  [[params.socialIcons]]
+    name = 'telegram'
+    url = 'https://t.me/coinepayqi'
+
+  [[params.socialIcons]]
+    name = 'whatsapp'
+    url = 'https://wa.me/message/2I3GXEELDVMHP1'
 
   [[params.socialIcons]]
     name = 'github'
