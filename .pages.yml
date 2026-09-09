@@ -11,7 +11,13 @@ content:
     type: collection
     path: content/posts
     format: yaml-frontmatter    # 对应 Hugo 的 --- YAML front matter
-    filename: "{title}.md"      # 新建时按标题自动生成文件名（会转成 URL 安全的 slug）
+    # 文件名模板。必须带非空前缀：中文标题 slug 化后是空串，
+    # 若模板只有 "{title}.md" 会生成隐藏文件 ".md"，Pages CMS 报
+    # Invalid extension "" 。日期前缀保证不会出现这种情况。
+    # field: create -> 新建时显示文件名输入框，可手填英文 slug（更利于 SEO）
+    filename:
+      template: "{year}-{month}-{day}-{primary}.md"
+      field: create
     exclude:
       - _index.md
     view:
