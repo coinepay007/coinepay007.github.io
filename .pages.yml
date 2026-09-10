@@ -1,19 +1,791 @@
 # Pages CMS 配置 —— https://pagescms.org/docs/configuration/
 # 后台地址：https://app.pagescms.org
+#
+# 站点共 16 种语言（Hugo multilingual），每种语言一个栏目，内容互相独立，
+# 分类各写各的，不需要一一对应：
+#   简体中文 content/zh/posts → https://coinepay007.github.io/posts/...
+#   其余语言 content/<代码>/posts → https://coinepay007.github.io/<代码>/posts/...
+#
+# 字段标签统一用中文（方便运营），栏目名里标注了目标语言。
+# 本文件由脚本按统一模板生成，增改语言时请保持格式一致。
 
 media:
   input: static/images    # 图片实际存放位置（仓库内）
   output: /images         # 写进文章里的图片 URL 前缀
 
 content:
-  - name: posts
-    label: 文章
+
+  # ── 简体中文（zh）──────────────────────────
+  - name: posts_zh
+    label: 中文文章
     type: collection
-    path: content/posts
+    path: content/zh/posts
     format: yaml-frontmatter    # 对应 Hugo 的 --- YAML front matter
-    # 文件名模板：用「英文别名」字段，不带日期前缀。
-    # 注意不能用 {title}：Pages CMS 对标题做 slugify(strict) 会剥掉全部中文，
-    # 中文标题会得到空串 -> 生成隐藏文件 ".md" -> 报 Invalid extension ""。
+    filename: "{fields.slug}.md"
+    exclude:
+      - _index.md
+    view:
+      fields: [title, date, draft, categories]
+      primary: title
+      sort: [date, title]
+      search: [title, categories, tags]
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: title
+        label: 标题
+        type: string
+        required: true
+      - name: slug
+        label: 英文别名（决定网址，必填，只用小写字母和连字符）
+        type: string
+        required: true
+        pattern:
+          regex: "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+          message: "只能用小写字母、数字和连字符，例如 overseas-education-payment"
+      - name: date
+        label: 发布时间
+        type: date
+        required: true
+      - name: draft
+        label: 存为草稿（勾选后不会发布到线上）
+        type: boolean
+        default: false
+      - name: categories
+        label: 分类
+        type: string
+        list: true
+      - name: tags
+        label: 标签
+        type: string
+        list: true
+      - name: body
+        label: 正文
+        type: rich-text
+        options:
+          format: markdown
+
+  # ── 英语（en）──────────────────────────
+  - name: posts_en
+    label: 英语 English
+    type: collection
+    path: content/en/posts
+    format: yaml-frontmatter    # 对应 Hugo 的 --- YAML front matter
+    filename: "{fields.slug}.md"
+    exclude:
+      - _index.md
+    view:
+      fields: [title, date, draft, categories]
+      primary: title
+      sort: [date, title]
+      search: [title, categories, tags]
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: title
+        label: 标题
+        type: string
+        required: true
+      - name: slug
+        label: 英文别名（决定网址，必填，只用小写字母和连字符）
+        type: string
+        required: true
+        pattern:
+          regex: "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+          message: "只能用小写字母、数字和连字符，例如 overseas-education-payment"
+      - name: date
+        label: 发布时间
+        type: date
+        required: true
+      - name: draft
+        label: 存为草稿（勾选后不会发布到线上）
+        type: boolean
+        default: false
+      - name: categories
+        label: 分类
+        type: string
+        list: true
+      - name: tags
+        label: 标签
+        type: string
+        list: true
+      - name: body
+        label: 正文
+        type: rich-text
+        options:
+          format: markdown
+
+  # ── 西班牙语（es）──────────────────────────
+  - name: posts_es
+    label: 西班牙语 Español
+    type: collection
+    path: content/es/posts
+    format: yaml-frontmatter    # 对应 Hugo 的 --- YAML front matter
+    filename: "{fields.slug}.md"
+    exclude:
+      - _index.md
+    view:
+      fields: [title, date, draft, categories]
+      primary: title
+      sort: [date, title]
+      search: [title, categories, tags]
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: title
+        label: 标题
+        type: string
+        required: true
+      - name: slug
+        label: 英文别名（决定网址，必填，只用小写字母和连字符）
+        type: string
+        required: true
+        pattern:
+          regex: "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+          message: "只能用小写字母、数字和连字符，例如 overseas-education-payment"
+      - name: date
+        label: 发布时间
+        type: date
+        required: true
+      - name: draft
+        label: 存为草稿（勾选后不会发布到线上）
+        type: boolean
+        default: false
+      - name: categories
+        label: 分类
+        type: string
+        list: true
+      - name: tags
+        label: 标签
+        type: string
+        list: true
+      - name: body
+        label: 正文
+        type: rich-text
+        options:
+          format: markdown
+
+  # ── 法语（fr）──────────────────────────
+  - name: posts_fr
+    label: 法语 Français
+    type: collection
+    path: content/fr/posts
+    format: yaml-frontmatter    # 对应 Hugo 的 --- YAML front matter
+    filename: "{fields.slug}.md"
+    exclude:
+      - _index.md
+    view:
+      fields: [title, date, draft, categories]
+      primary: title
+      sort: [date, title]
+      search: [title, categories, tags]
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: title
+        label: 标题
+        type: string
+        required: true
+      - name: slug
+        label: 英文别名（决定网址，必填，只用小写字母和连字符）
+        type: string
+        required: true
+        pattern:
+          regex: "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+          message: "只能用小写字母、数字和连字符，例如 overseas-education-payment"
+      - name: date
+        label: 发布时间
+        type: date
+        required: true
+      - name: draft
+        label: 存为草稿（勾选后不会发布到线上）
+        type: boolean
+        default: false
+      - name: categories
+        label: 分类
+        type: string
+        list: true
+      - name: tags
+        label: 标签
+        type: string
+        list: true
+      - name: body
+        label: 正文
+        type: rich-text
+        options:
+          format: markdown
+
+  # ── 葡萄牙语（pt）──────────────────────────
+  - name: posts_pt
+    label: 葡萄牙语 Português
+    type: collection
+    path: content/pt/posts
+    format: yaml-frontmatter    # 对应 Hugo 的 --- YAML front matter
+    filename: "{fields.slug}.md"
+    exclude:
+      - _index.md
+    view:
+      fields: [title, date, draft, categories]
+      primary: title
+      sort: [date, title]
+      search: [title, categories, tags]
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: title
+        label: 标题
+        type: string
+        required: true
+      - name: slug
+        label: 英文别名（决定网址，必填，只用小写字母和连字符）
+        type: string
+        required: true
+        pattern:
+          regex: "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+          message: "只能用小写字母、数字和连字符，例如 overseas-education-payment"
+      - name: date
+        label: 发布时间
+        type: date
+        required: true
+      - name: draft
+        label: 存为草稿（勾选后不会发布到线上）
+        type: boolean
+        default: false
+      - name: categories
+        label: 分类
+        type: string
+        list: true
+      - name: tags
+        label: 标签
+        type: string
+        list: true
+      - name: body
+        label: 正文
+        type: rich-text
+        options:
+          format: markdown
+
+  # ── 波兰语（pl）──────────────────────────
+  - name: posts_pl
+    label: 波兰语 Polski
+    type: collection
+    path: content/pl/posts
+    format: yaml-frontmatter    # 对应 Hugo 的 --- YAML front matter
+    filename: "{fields.slug}.md"
+    exclude:
+      - _index.md
+    view:
+      fields: [title, date, draft, categories]
+      primary: title
+      sort: [date, title]
+      search: [title, categories, tags]
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: title
+        label: 标题
+        type: string
+        required: true
+      - name: slug
+        label: 英文别名（决定网址，必填，只用小写字母和连字符）
+        type: string
+        required: true
+        pattern:
+          regex: "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+          message: "只能用小写字母、数字和连字符，例如 overseas-education-payment"
+      - name: date
+        label: 发布时间
+        type: date
+        required: true
+      - name: draft
+        label: 存为草稿（勾选后不会发布到线上）
+        type: boolean
+        default: false
+      - name: categories
+        label: 分类
+        type: string
+        list: true
+      - name: tags
+        label: 标签
+        type: string
+        list: true
+      - name: body
+        label: 正文
+        type: rich-text
+        options:
+          format: markdown
+
+  # ── 罗马尼亚语（ro）──────────────────────────
+  - name: posts_ro
+    label: 罗马尼亚语 Română
+    type: collection
+    path: content/ro/posts
+    format: yaml-frontmatter    # 对应 Hugo 的 --- YAML front matter
+    filename: "{fields.slug}.md"
+    exclude:
+      - _index.md
+    view:
+      fields: [title, date, draft, categories]
+      primary: title
+      sort: [date, title]
+      search: [title, categories, tags]
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: title
+        label: 标题
+        type: string
+        required: true
+      - name: slug
+        label: 英文别名（决定网址，必填，只用小写字母和连字符）
+        type: string
+        required: true
+        pattern:
+          regex: "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+          message: "只能用小写字母、数字和连字符，例如 overseas-education-payment"
+      - name: date
+        label: 发布时间
+        type: date
+        required: true
+      - name: draft
+        label: 存为草稿（勾选后不会发布到线上）
+        type: boolean
+        default: false
+      - name: categories
+        label: 分类
+        type: string
+        list: true
+      - name: tags
+        label: 标签
+        type: string
+        list: true
+      - name: body
+        label: 正文
+        type: rich-text
+        options:
+          format: markdown
+
+  # ── 土耳其语（tr）──────────────────────────
+  - name: posts_tr
+    label: 土耳其语 Türkçe
+    type: collection
+    path: content/tr/posts
+    format: yaml-frontmatter    # 对应 Hugo 的 --- YAML front matter
+    filename: "{fields.slug}.md"
+    exclude:
+      - _index.md
+    view:
+      fields: [title, date, draft, categories]
+      primary: title
+      sort: [date, title]
+      search: [title, categories, tags]
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: title
+        label: 标题
+        type: string
+        required: true
+      - name: slug
+        label: 英文别名（决定网址，必填，只用小写字母和连字符）
+        type: string
+        required: true
+        pattern:
+          regex: "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+          message: "只能用小写字母、数字和连字符，例如 overseas-education-payment"
+      - name: date
+        label: 发布时间
+        type: date
+        required: true
+      - name: draft
+        label: 存为草稿（勾选后不会发布到线上）
+        type: boolean
+        default: false
+      - name: categories
+        label: 分类
+        type: string
+        list: true
+      - name: tags
+        label: 标签
+        type: string
+        list: true
+      - name: body
+        label: 正文
+        type: rich-text
+        options:
+          format: markdown
+
+  # ── 日语（ja）──────────────────────────
+  - name: posts_ja
+    label: 日语 日本語
+    type: collection
+    path: content/ja/posts
+    format: yaml-frontmatter    # 对应 Hugo 的 --- YAML front matter
+    filename: "{fields.slug}.md"
+    exclude:
+      - _index.md
+    view:
+      fields: [title, date, draft, categories]
+      primary: title
+      sort: [date, title]
+      search: [title, categories, tags]
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: title
+        label: 标题
+        type: string
+        required: true
+      - name: slug
+        label: 英文别名（决定网址，必填，只用小写字母和连字符）
+        type: string
+        required: true
+        pattern:
+          regex: "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+          message: "只能用小写字母、数字和连字符，例如 overseas-education-payment"
+      - name: date
+        label: 发布时间
+        type: date
+        required: true
+      - name: draft
+        label: 存为草稿（勾选后不会发布到线上）
+        type: boolean
+        default: false
+      - name: categories
+        label: 分类
+        type: string
+        list: true
+      - name: tags
+        label: 标签
+        type: string
+        list: true
+      - name: body
+        label: 正文
+        type: rich-text
+        options:
+          format: markdown
+
+  # ── 韩语（ko）──────────────────────────
+  - name: posts_ko
+    label: 韩语 한국어
+    type: collection
+    path: content/ko/posts
+    format: yaml-frontmatter    # 对应 Hugo 的 --- YAML front matter
+    filename: "{fields.slug}.md"
+    exclude:
+      - _index.md
+    view:
+      fields: [title, date, draft, categories]
+      primary: title
+      sort: [date, title]
+      search: [title, categories, tags]
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: title
+        label: 标题
+        type: string
+        required: true
+      - name: slug
+        label: 英文别名（决定网址，必填，只用小写字母和连字符）
+        type: string
+        required: true
+        pattern:
+          regex: "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+          message: "只能用小写字母、数字和连字符，例如 overseas-education-payment"
+      - name: date
+        label: 发布时间
+        type: date
+        required: true
+      - name: draft
+        label: 存为草稿（勾选后不会发布到线上）
+        type: boolean
+        default: false
+      - name: categories
+        label: 分类
+        type: string
+        list: true
+      - name: tags
+        label: 标签
+        type: string
+        list: true
+      - name: body
+        label: 正文
+        type: rich-text
+        options:
+          format: markdown
+
+  # ── 印地语（hi）──────────────────────────
+  - name: posts_hi
+    label: 印地语 हिन्दी
+    type: collection
+    path: content/hi/posts
+    format: yaml-frontmatter    # 对应 Hugo 的 --- YAML front matter
+    filename: "{fields.slug}.md"
+    exclude:
+      - _index.md
+    view:
+      fields: [title, date, draft, categories]
+      primary: title
+      sort: [date, title]
+      search: [title, categories, tags]
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: title
+        label: 标题
+        type: string
+        required: true
+      - name: slug
+        label: 英文别名（决定网址，必填，只用小写字母和连字符）
+        type: string
+        required: true
+        pattern:
+          regex: "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+          message: "只能用小写字母、数字和连字符，例如 overseas-education-payment"
+      - name: date
+        label: 发布时间
+        type: date
+        required: true
+      - name: draft
+        label: 存为草稿（勾选后不会发布到线上）
+        type: boolean
+        default: false
+      - name: categories
+        label: 分类
+        type: string
+        list: true
+      - name: tags
+        label: 标签
+        type: string
+        list: true
+      - name: body
+        label: 正文
+        type: rich-text
+        options:
+          format: markdown
+
+  # ── 孟加拉语（bn）──────────────────────────
+  - name: posts_bn
+    label: 孟加拉语 বাংলা
+    type: collection
+    path: content/bn/posts
+    format: yaml-frontmatter    # 对应 Hugo 的 --- YAML front matter
+    filename: "{fields.slug}.md"
+    exclude:
+      - _index.md
+    view:
+      fields: [title, date, draft, categories]
+      primary: title
+      sort: [date, title]
+      search: [title, categories, tags]
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: title
+        label: 标题
+        type: string
+        required: true
+      - name: slug
+        label: 英文别名（决定网址，必填，只用小写字母和连字符）
+        type: string
+        required: true
+        pattern:
+          regex: "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+          message: "只能用小写字母、数字和连字符，例如 overseas-education-payment"
+      - name: date
+        label: 发布时间
+        type: date
+        required: true
+      - name: draft
+        label: 存为草稿（勾选后不会发布到线上）
+        type: boolean
+        default: false
+      - name: categories
+        label: 分类
+        type: string
+        list: true
+      - name: tags
+        label: 标签
+        type: string
+        list: true
+      - name: body
+        label: 正文
+        type: rich-text
+        options:
+          format: markdown
+
+  # ── 乌尔都语（ur）──────────────────────────
+  - name: posts_ur
+    label: 乌尔都语 اردو
+    type: collection
+    path: content/ur/posts
+    format: yaml-frontmatter    # 对应 Hugo 的 --- YAML front matter
+    filename: "{fields.slug}.md"
+    exclude:
+      - _index.md
+    view:
+      fields: [title, date, draft, categories]
+      primary: title
+      sort: [date, title]
+      search: [title, categories, tags]
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: title
+        label: 标题
+        type: string
+        required: true
+      - name: slug
+        label: 英文别名（决定网址，必填，只用小写字母和连字符）
+        type: string
+        required: true
+        pattern:
+          regex: "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+          message: "只能用小写字母、数字和连字符，例如 overseas-education-payment"
+      - name: date
+        label: 发布时间
+        type: date
+        required: true
+      - name: draft
+        label: 存为草稿（勾选后不会发布到线上）
+        type: boolean
+        default: false
+      - name: categories
+        label: 分类
+        type: string
+        list: true
+      - name: tags
+        label: 标签
+        type: string
+        list: true
+      - name: body
+        label: 正文
+        type: rich-text
+        options:
+          format: markdown
+
+  # ── 阿拉伯语（ar）──────────────────────────
+  - name: posts_ar
+    label: 阿拉伯语 العربية
+    type: collection
+    path: content/ar/posts
+    format: yaml-frontmatter    # 对应 Hugo 的 --- YAML front matter
+    filename: "{fields.slug}.md"
+    exclude:
+      - _index.md
+    view:
+      fields: [title, date, draft, categories]
+      primary: title
+      sort: [date, title]
+      search: [title, categories, tags]
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: title
+        label: 标题
+        type: string
+        required: true
+      - name: slug
+        label: 英文别名（决定网址，必填，只用小写字母和连字符）
+        type: string
+        required: true
+        pattern:
+          regex: "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+          message: "只能用小写字母、数字和连字符，例如 overseas-education-payment"
+      - name: date
+        label: 发布时间
+        type: date
+        required: true
+      - name: draft
+        label: 存为草稿（勾选后不会发布到线上）
+        type: boolean
+        default: false
+      - name: categories
+        label: 分类
+        type: string
+        list: true
+      - name: tags
+        label: 标签
+        type: string
+        list: true
+      - name: body
+        label: 正文
+        type: rich-text
+        options:
+          format: markdown
+
+  # ── 泰语（th）──────────────────────────
+  - name: posts_th
+    label: 泰语 ไทย
+    type: collection
+    path: content/th/posts
+    format: yaml-frontmatter    # 对应 Hugo 的 --- YAML front matter
+    filename: "{fields.slug}.md"
+    exclude:
+      - _index.md
+    view:
+      fields: [title, date, draft, categories]
+      primary: title
+      sort: [date, title]
+      search: [title, categories, tags]
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: title
+        label: 标题
+        type: string
+        required: true
+      - name: slug
+        label: 英文别名（决定网址，必填，只用小写字母和连字符）
+        type: string
+        required: true
+        pattern:
+          regex: "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+          message: "只能用小写字母、数字和连字符，例如 overseas-education-payment"
+      - name: date
+        label: 发布时间
+        type: date
+        required: true
+      - name: draft
+        label: 存为草稿（勾选后不会发布到线上）
+        type: boolean
+        default: false
+      - name: categories
+        label: 分类
+        type: string
+        list: true
+      - name: tags
+        label: 标签
+        type: string
+        list: true
+      - name: body
+        label: 正文
+        type: rich-text
+        options:
+          format: markdown
+
+  # ── 越南语（vi）──────────────────────────
+  - name: posts_vi
+    label: 越南语 Tiếng Việt
+    type: collection
+    path: content/vi/posts
+    format: yaml-frontmatter    # 对应 Hugo 的 --- YAML front matter
     filename: "{fields.slug}.md"
     exclude:
       - _index.md

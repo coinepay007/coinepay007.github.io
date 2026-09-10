@@ -1,0 +1,24 @@
+# اردو —— 本站自定义界面文案（PaperMod 自带的在 themes/PaperMod/i18n/）
+promoLabel: "اسپانسر شدہ مواد"
+selectLanguage: "زبان منتخب کریں"
+langGroupEa: "مشرقی ایشیا"
+langGroupSa: "جنوبی ایشیا"
+langGroupSea: "جنوب مشرقی ایشیا"
+langGroupMe: "مشرق وسطیٰ"
+langGroupEu: "یورپ اور امریکہ"
+
+# PaperMod 未提供乌尔都语，补齐主题用到的 key，否则会回落到中文
+prev_page: "پچھلا"
+next_page: "اگلا"
+read_time:
+  one: "1 منٹ"
+  other: "{{ .Count }} منٹ"
+words:
+  one: "لفظ"
+  other: "{{ .Count }} الفاظ"
+toc: "فہرستِ مضامین"
+translations: "تراجم"
+home: "ہوم"
+edit_post: "ترمیم"
+code_copy: "کاپی"
+code_copied: "کاپی ہو گیا!"

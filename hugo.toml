@@ -1,8 +1,13 @@
 baseURL = 'https://coinepay007.github.io/'
-languageCode = 'zh-cn'
-defaultContentLanguage = 'zh'
-title = 'coinepay007'
 theme = 'PaperMod'
+
+# ── 多语言 ────────────────────────────────────
+# 中文在站点根目录（/posts/...），其余语言在 /<语言代码>/ 下，原有中文链接不变。
+# params.noindex = true 的语言暂不进 sitemap，页面带 noindex,follow；
+# 该语言有了文章后，删掉它的 noindex 一行即可放出。
+# params.langGroup：切换器下拉面板的分组。
+defaultContentLanguage = 'zh'
+defaultContentLanguageInSubdir = false
 
 enableRobotsTXT = true
 enableEmoji = true
@@ -18,17 +23,15 @@ buildExpired = false
   minifyOutput = true
 
 [outputs]
-  home = ['HTML', 'RSS', 'JSON']   # JSON 供站内搜索使用
+  home = ['HTML', 'RSS', 'JSON']
 
 [taxonomies]
   category = 'categories'
   tag = 'tags'
 
+# ── 全站通用参数（会被各语言的 params 覆盖/补充）──
 [params]
   env = 'production'
-  title = 'coinepay007'
-  description = '一张虚拟卡搞定 AI 服务订阅、海外会员开通与跨境消费，实时充值、即开即用'
-  keywords = ['虚拟信用卡', 'ChatGPT订阅', '海外会员', '虚拟卡开通', 'Coinepay']
   DateFormat = '2006-01-02'
   defaultTheme = 'auto'      # auto / light / dark
   disableThemeToggle = false
@@ -46,23 +49,6 @@ buildExpired = false
   hideSummary = false
   comments = false
 
-  [params.homeInfoParams]
-    Title = 'Coinepay · 海外订阅与消费'
-    Content = '''
-想订 ChatGPT Plus、Claude，或者开个 YouTube Premium、Netflix，卡在支付这一步——这大概是最常见的情况。
-
-国内的卡在这些平台上经常过不去，不是被拒就是反复验证。虚拟卡解决的就是这件事：
-
-**能用来做什么**
-
-订阅 ChatGPT、Claude、Midjourney 等 AI 服务；开通 YouTube、Netflix、Spotify 会员；注册美区 Apple ID 并绑卡；投放 Facebook、Google、TikTok 广告；海外网站购物与各类线上服务。
-
-**怎么用**
-
-注册后在线开卡，实时充值，卡号立即可用，不用等实体卡邮寄。支持多币种结算，按实际消费扣款。
-
-开卡遇到问题随时找人工，**Telegram [@coinepayqi](https://t.me/coinepayqi)** · **[WhatsApp](https://wa.me/message/2I3GXEELDVMHP1)**
-'''
 
   [[params.socialIcons]]
     name = 'telegram'
@@ -118,6 +104,935 @@ buildExpired = false
   name = '搜索'
   url = '/search/'
   weight = 50
+
+# ══ 简体中文 (zh) · 东亚 ══════════════════════════════
+[languages.zh]
+  locale = "zh-CN"
+  label = "简体中文"
+  contentDir = 'content/zh'
+  weight = 1
+  title = "coinepay007"
+
+  [languages.zh.params]
+    description = "一张虚拟卡搞定 AI 服务订阅、海外会员开通与跨境消费，实时充值、即开即用"
+    keywords = ["虚拟信用卡", "ChatGPT订阅", "海外会员", "虚拟卡开通", "Coinepay"]
+    langGroup = "ea"
+
+    [languages.zh.params.homeInfoParams]
+      Title = "Coinepay · 海外订阅与消费"
+      Content = '''
+想订 ChatGPT Plus、Claude，或者开个 YouTube Premium、Netflix，卡在支付这一步——这大概是最常见的情况。
+
+国内的卡在这些平台上经常过不去，不是被拒就是反复验证。虚拟卡解决的就是这件事：
+
+**能用来做什么**
+
+订阅 ChatGPT、Claude、Midjourney 等 AI 服务；开通 YouTube、Netflix、Spotify 会员；注册美区 Apple ID 并绑卡；投放 Facebook、Google、TikTok 广告；海外网站购物与各类线上服务。
+
+**怎么用**
+
+注册后在线开卡，实时充值，卡号立即可用，不用等实体卡邮寄。支持多币种结算，按实际消费扣款。
+
+开卡遇到问题随时找人工，**Telegram [@coinepayqi](https://t.me/coinepayqi)** · **[WhatsApp](https://wa.me/message/2I3GXEELDVMHP1)**
+'''
+
+  [[languages.zh.menu.main]]
+    identifier = 'posts'
+    name = "文章"
+    url = '/posts/'
+    weight = 10
+  [[languages.zh.menu.main]]
+    identifier = 'archives'
+    name = "归档"
+    url = '/archives/'
+    weight = 20
+  [[languages.zh.menu.main]]
+    identifier = 'categories'
+    name = "分类"
+    url = '/categories/'
+    weight = 30
+  [[languages.zh.menu.main]]
+    identifier = 'tags'
+    name = "标签"
+    url = '/tags/'
+    weight = 40
+  [[languages.zh.menu.main]]
+    identifier = 'search'
+    name = "搜索"
+    url = '/search/'
+    weight = 50
+
+# ══ English (en) · 欧洲与美洲 ════════════════════════
+[languages.en]
+  locale = "en"
+  label = "English"
+  contentDir = 'content/en'
+  weight = 2
+  title = "coinepay007"
+
+  [languages.en.params]
+    description = "Coinepay · Overseas Subscriptions and Spending"
+    keywords = ["虚拟信用卡", "ChatGPT订阅", "海外会员", "虚拟卡开通", "Coinepay"]
+    langGroup = "eu"
+    noindex = true          # 暂不进 sitemap；有文章后删掉本行
+
+    [languages.en.params.homeInfoParams]
+      Title = "Coinepay · Overseas Subscriptions and Spending"
+      Content = '''
+You want ChatGPT Plus or Claude, or a YouTube Premium or Netflix membership, and you get stuck at the payment step — that is far and away the most common situation.
+
+Local cards are frequently refused on these platforms, either declined outright or caught in repeated verification. A virtual card exists to solve exactly that:
+
+**What you can use it for**
+
+Subscribe to ChatGPT, Claude, Midjourney and other AI services; activate YouTube, Netflix and Spotify memberships; register a US Apple ID and attach a card; run ads on Facebook, Google and TikTok; shop on overseas sites and pay for online services of every kind.
+
+**How it works**
+
+Register, issue the card online, top it up in real time, and the card number is usable immediately — no waiting for a physical card in the post. Settlement is multi-currency and you are charged on actual spend.
+
+Reach a real person any time you hit a problem issuing a card，**Telegram [@coinepayqi](https://t.me/coinepayqi)** · **[WhatsApp](https://wa.me/message/2I3GXEELDVMHP1)**
+'''
+
+  [[languages.en.menu.main]]
+    identifier = 'posts'
+    name = "Posts"
+    url = '/posts/'
+    weight = 10
+  [[languages.en.menu.main]]
+    identifier = 'archives'
+    name = "Archives"
+    url = '/archives/'
+    weight = 20
+  [[languages.en.menu.main]]
+    identifier = 'categories'
+    name = "Categories"
+    url = '/categories/'
+    weight = 30
+  [[languages.en.menu.main]]
+    identifier = 'tags'
+    name = "Tags"
+    url = '/tags/'
+    weight = 40
+  [[languages.en.menu.main]]
+    identifier = 'search'
+    name = "Search"
+    url = '/search/'
+    weight = 50
+
+# ══ Español (es) · 欧洲与美洲 ════════════════════════
+[languages.es]
+  locale = "es"
+  label = "Español"
+  contentDir = 'content/es'
+  weight = 3
+  title = "coinepay007"
+
+  [languages.es.params]
+    description = "Coinepay · Suscripciones y compras en el extranjero"
+    keywords = ["虚拟信用卡", "ChatGPT订阅", "海外会员", "虚拟卡开通", "Coinepay"]
+    langGroup = "eu"
+    noindex = true          # 暂不进 sitemap；有文章后删掉本行
+
+    [languages.es.params.homeInfoParams]
+      Title = "Coinepay · Suscripciones y compras en el extranjero"
+      Content = '''
+Quieres ChatGPT Plus o Claude, o una membresía de YouTube Premium o Netflix, y te atascas justo en el pago: es con diferencia la situación más habitual.
+
+Las tarjetas locales fallan a menudo en estas plataformas, ya sea por rechazo directo o por verificaciones repetidas. La tarjeta virtual existe precisamente para resolver eso:
+
+**Para qué sirve**
+
+Suscribirte a ChatGPT, Claude, Midjourney y otros servicios de IA; activar YouTube, Netflix y Spotify; registrar un Apple ID de EE. UU. y asociarle una tarjeta; lanzar campañas en Facebook, Google y TikTok; comprar en webs extranjeras y pagar todo tipo de servicios en línea.
+
+**Cómo se usa**
+
+Te registras, emites la tarjeta en línea, la recargas al instante y el número queda operativo de inmediato, sin esperar el envío de una tarjeta física. Liquidación multidivisa y cargo según el consumo real.
+
+Si algo falla al emitir la tarjeta, hay una persona disponible，**Telegram [@coinepayqi](https://t.me/coinepayqi)** · **[WhatsApp](https://wa.me/message/2I3GXEELDVMHP1)**
+'''
+
+  [[languages.es.menu.main]]
+    identifier = 'posts'
+    name = "Artículos"
+    url = '/posts/'
+    weight = 10
+  [[languages.es.menu.main]]
+    identifier = 'archives'
+    name = "Archivo"
+    url = '/archives/'
+    weight = 20
+  [[languages.es.menu.main]]
+    identifier = 'categories'
+    name = "Categorías"
+    url = '/categories/'
+    weight = 30
+  [[languages.es.menu.main]]
+    identifier = 'tags'
+    name = "Etiquetas"
+    url = '/tags/'
+    weight = 40
+  [[languages.es.menu.main]]
+    identifier = 'search'
+    name = "Buscar"
+    url = '/search/'
+    weight = 50
+
+# ══ Français (fr) · 欧洲与美洲 ═══════════════════════
+[languages.fr]
+  locale = "fr"
+  label = "Français"
+  contentDir = 'content/fr'
+  weight = 4
+  title = "coinepay007"
+
+  [languages.fr.params]
+    description = "Coinepay · Abonnements et achats à l’étranger"
+    keywords = ["虚拟信用卡", "ChatGPT订阅", "海外会员", "虚拟卡开通", "Coinepay"]
+    langGroup = "eu"
+    noindex = true          # 暂不进 sitemap；有文章后删掉本行
+
+    [languages.fr.params.homeInfoParams]
+      Title = "Coinepay · Abonnements et achats à l’étranger"
+      Content = '''
+Vous voulez ChatGPT Plus ou Claude, ou un abonnement YouTube Premium ou Netflix, et vous bloquez à l’étape du paiement : c’est de loin le cas le plus fréquent.
+
+Les cartes locales échouent souvent sur ces plateformes, soit refusées d’emblée, soit prises dans des vérifications à répétition. La carte virtuelle sert précisément à régler cela :
+
+**À quoi elle sert**
+
+S’abonner à ChatGPT, Claude, Midjourney et autres services d’IA ; activer YouTube, Netflix et Spotify ; créer un identifiant Apple américain et y associer une carte ; diffuser des publicités sur Facebook, Google et TikTok ; acheter sur des sites étrangers et payer toutes sortes de services en ligne.
+
+**Comment l’utiliser**
+
+Inscrivez-vous, émettez la carte en ligne, rechargez-la en temps réel : le numéro est utilisable immédiatement, sans attendre l’envoi d’une carte physique. Règlement multidevise et débit sur la dépense réelle.
+
+En cas de blocage à l’émission, une personne réelle vous répond，**Telegram [@coinepayqi](https://t.me/coinepayqi)** · **[WhatsApp](https://wa.me/message/2I3GXEELDVMHP1)**
+'''
+
+  [[languages.fr.menu.main]]
+    identifier = 'posts'
+    name = "Articles"
+    url = '/posts/'
+    weight = 10
+  [[languages.fr.menu.main]]
+    identifier = 'archives'
+    name = "Archives"
+    url = '/archives/'
+    weight = 20
+  [[languages.fr.menu.main]]
+    identifier = 'categories'
+    name = "Catégories"
+    url = '/categories/'
+    weight = 30
+  [[languages.fr.menu.main]]
+    identifier = 'tags'
+    name = "Étiquettes"
+    url = '/tags/'
+    weight = 40
+  [[languages.fr.menu.main]]
+    identifier = 'search'
+    name = "Recherche"
+    url = '/search/'
+    weight = 50
+
+# ══ Português (pt) · 欧洲与美洲 ══════════════════════
+[languages.pt]
+  locale = "pt"
+  label = "Português"
+  contentDir = 'content/pt'
+  weight = 5
+  title = "coinepay007"
+
+  [languages.pt.params]
+    description = "Coinepay · Assinaturas e compras no exterior"
+    keywords = ["虚拟信用卡", "ChatGPT订阅", "海外会员", "虚拟卡开通", "Coinepay"]
+    langGroup = "eu"
+    noindex = true          # 暂不进 sitemap；有文章后删掉本行
+
+    [languages.pt.params.homeInfoParams]
+      Title = "Coinepay · Assinaturas e compras no exterior"
+      Content = '''
+Você quer ChatGPT Plus ou Claude, ou uma assinatura de YouTube Premium ou Netflix, e trava justamente no pagamento — de longe a situação mais comum.
+
+Cartões nacionais costumam falhar nessas plataformas, seja por recusa direta, seja por verificações repetidas. O cartão virtual existe exatamente para resolver isso:
+
+**Para que serve**
+
+Assinar ChatGPT, Claude, Midjourney e outros serviços de IA; ativar YouTube, Netflix e Spotify; criar um Apple ID dos EUA e vincular um cartão; anunciar no Facebook, Google e TikTok; comprar em sites estrangeiros e pagar serviços online de todo tipo.
+
+**Como usar**
+
+Cadastre-se, emita o cartão online, recarregue em tempo real e o número já fica utilizável, sem esperar o envio de um cartão físico. Liquidação multimoeda e cobrança conforme o consumo real.
+
+Se travar em qualquer etapa da emissão, tem gente para responder，**Telegram [@coinepayqi](https://t.me/coinepayqi)** · **[WhatsApp](https://wa.me/message/2I3GXEELDVMHP1)**
+'''
+
+  [[languages.pt.menu.main]]
+    identifier = 'posts'
+    name = "Artigos"
+    url = '/posts/'
+    weight = 10
+  [[languages.pt.menu.main]]
+    identifier = 'archives'
+    name = "Arquivo"
+    url = '/archives/'
+    weight = 20
+  [[languages.pt.menu.main]]
+    identifier = 'categories'
+    name = "Categorias"
+    url = '/categories/'
+    weight = 30
+  [[languages.pt.menu.main]]
+    identifier = 'tags'
+    name = "Tags"
+    url = '/tags/'
+    weight = 40
+  [[languages.pt.menu.main]]
+    identifier = 'search'
+    name = "Buscar"
+    url = '/search/'
+    weight = 50
+
+# ══ Polski (pl) · 欧洲与美洲 ═════════════════════════
+[languages.pl]
+  locale = "pl"
+  label = "Polski"
+  contentDir = 'content/pl'
+  weight = 6
+  title = "coinepay007"
+
+  [languages.pl.params]
+    description = "Coinepay · Zagraniczne subskrypcje i zakupy"
+    keywords = ["虚拟信用卡", "ChatGPT订阅", "海外会员", "虚拟卡开通", "Coinepay"]
+    langGroup = "eu"
+    noindex = true          # 暂不进 sitemap；有文章后删掉本行
+
+    [languages.pl.params.homeInfoParams]
+      Title = "Coinepay · Zagraniczne subskrypcje i zakupy"
+      Content = '''
+Chcesz ChatGPT Plus albo Claude, albo abonament YouTube Premium czy Netflix — i utykasz na etapie płatności. To zdecydowanie najczęstsza sytuacja.
+
+Lokalne karty często nie przechodzą na tych platformach: albo są odrzucane, albo grzęzną w kolejnych weryfikacjach. Karta wirtualna służy dokładnie do rozwiązania tego problemu:
+
+**Do czego się przyda**
+
+Subskrypcje ChatGPT, Claude, Midjourney i innych usług AI; aktywacja YouTube, Netflix i Spotify; rejestracja amerykańskiego Apple ID i podpięcie karty; kampanie na Facebooku, Google i TikToku; zakupy na zagranicznych stronach i wszelkie usługi online.
+
+**Jak to działa**
+
+Rejestrujesz się, wydajesz kartę online, doładowujesz w czasie rzeczywistym, a numer działa od razu — bez czekania na przesyłkę z kartą fizyczną. Rozliczenie wielowalutowe, obciążenie według faktycznych wydatków.
+
+Jeśli coś zablokuje wydanie karty, odpowie prawdziwa osoba，**Telegram [@coinepayqi](https://t.me/coinepayqi)** · **[WhatsApp](https://wa.me/message/2I3GXEELDVMHP1)**
+'''
+
+  [[languages.pl.menu.main]]
+    identifier = 'posts'
+    name = "Artykuły"
+    url = '/posts/'
+    weight = 10
+  [[languages.pl.menu.main]]
+    identifier = 'archives'
+    name = "Archiwum"
+    url = '/archives/'
+    weight = 20
+  [[languages.pl.menu.main]]
+    identifier = 'categories'
+    name = "Kategorie"
+    url = '/categories/'
+    weight = 30
+  [[languages.pl.menu.main]]
+    identifier = 'tags'
+    name = "Tagi"
+    url = '/tags/'
+    weight = 40
+  [[languages.pl.menu.main]]
+    identifier = 'search'
+    name = "Szukaj"
+    url = '/search/'
+    weight = 50
+
+# ══ Română (ro) · 欧洲与美洲 ═════════════════════════
+[languages.ro]
+  locale = "ro"
+  label = "Română"
+  contentDir = 'content/ro'
+  weight = 7
+  title = "coinepay007"
+
+  [languages.ro.params]
+    description = "Coinepay · Abonamente și cumpărături în străinătate"
+    keywords = ["虚拟信用卡", "ChatGPT订阅", "海外会员", "虚拟卡开通", "Coinepay"]
+    langGroup = "eu"
+    noindex = true          # 暂不进 sitemap；有文章后删掉本行
+
+    [languages.ro.params.homeInfoParams]
+      Title = "Coinepay · Abonamente și cumpărături în străinătate"
+      Content = '''
+Vrei ChatGPT Plus sau Claude, ori un abonament YouTube Premium sau Netflix, și te blochezi exact la plată — de departe cea mai frecventă situație.
+
+Cardurile locale sunt adesea refuzate pe aceste platforme, fie respinse direct, fie blocate în verificări repetate. Cardul virtual există tocmai pentru a rezolva asta:
+
+**La ce folosește**
+
+Abonamente la ChatGPT, Claude, Midjourney și alte servicii AI; activarea YouTube, Netflix și Spotify; crearea unui Apple ID din SUA și asocierea unui card; campanii pe Facebook, Google și TikTok; cumpărături pe site-uri străine și orice fel de servicii online.
+
+**Cum se folosește**
+
+Te înregistrezi, emiți cardul online, îl alimentezi în timp real, iar numărul poate fi folosit imediat, fără să aștepți un card fizic prin poștă. Decontare multivalutară și taxare în funcție de consumul real.
+
+Dacă se blochează ceva la emitere, îți răspunde un om，**Telegram [@coinepayqi](https://t.me/coinepayqi)** · **[WhatsApp](https://wa.me/message/2I3GXEELDVMHP1)**
+'''
+
+  [[languages.ro.menu.main]]
+    identifier = 'posts'
+    name = "Articole"
+    url = '/posts/'
+    weight = 10
+  [[languages.ro.menu.main]]
+    identifier = 'archives'
+    name = "Arhivă"
+    url = '/archives/'
+    weight = 20
+  [[languages.ro.menu.main]]
+    identifier = 'categories'
+    name = "Categorii"
+    url = '/categories/'
+    weight = 30
+  [[languages.ro.menu.main]]
+    identifier = 'tags'
+    name = "Etichete"
+    url = '/tags/'
+    weight = 40
+  [[languages.ro.menu.main]]
+    identifier = 'search'
+    name = "Căutare"
+    url = '/search/'
+    weight = 50
+
+# ══ Türkçe (tr) · 中东 ════════════════════════════
+[languages.tr]
+  locale = "tr"
+  label = "Türkçe"
+  contentDir = 'content/tr'
+  weight = 8
+  title = "coinepay007"
+
+  [languages.tr.params]
+    description = "Coinepay · Yurt dışı abonelikleri ve harcamaları"
+    keywords = ["虚拟信用卡", "ChatGPT订阅", "海外会员", "虚拟卡开通", "Coinepay"]
+    langGroup = "me"
+    noindex = true          # 暂不进 sitemap；有文章后删掉本行
+
+    [languages.tr.params.homeInfoParams]
+      Title = "Coinepay · Yurt dışı abonelikleri ve harcamaları"
+      Content = '''
+ChatGPT Plus ya da Claude almak, veya YouTube Premium veya Netflix üyeliği açmak istiyorsunuz ve tam ödeme adımında takılıyorsunuz —— açık ara en sık karşılaşılan durum bu.
+
+Yerel kartlar bu platformlarda sık sık geçmez: ya doğrudan reddedilir ya da tekrarlanan doğrulamalara takılır. Sanal kart tam olarak bunu çözmek için var:
+
+**Ne için kullanabilirsiniz**
+
+ChatGPT, Claude, Midjourney ve diğer yapay zekâ servislerine abone olmak; YouTube, Netflix ve Spotify üyeliği açmak; ABD Apple ID’si oluşturup kart bağlamak; Facebook, Google ve TikTok’ta reklam yayınlamak; yurt dışı sitelerden alışveriş yapmak ve her türlü çevrimiçi hizmeti ödemek.
+
+**Nasıl kullanılır**
+
+Kaydolun, kartı çevrimiçi çıkarın, anında yükleyin; kart numarası hemen kullanılabilir, fiziksel kartın postayla gelmesini beklemeye gerek yok. Çoklu para birimiyle mutabakat, gerçek harcamaya göre tahsilat.
+
+Kart çıkarırken bir yerde takılırsanız gerçek bir kişi yanıtlıyor，**Telegram [@coinepayqi](https://t.me/coinepayqi)** · **[WhatsApp](https://wa.me/message/2I3GXEELDVMHP1)**
+'''
+
+  [[languages.tr.menu.main]]
+    identifier = 'posts'
+    name = "Yazılar"
+    url = '/posts/'
+    weight = 10
+  [[languages.tr.menu.main]]
+    identifier = 'archives'
+    name = "Arşiv"
+    url = '/archives/'
+    weight = 20
+  [[languages.tr.menu.main]]
+    identifier = 'categories'
+    name = "Kategoriler"
+    url = '/categories/'
+    weight = 30
+  [[languages.tr.menu.main]]
+    identifier = 'tags'
+    name = "Etiketler"
+    url = '/tags/'
+    weight = 40
+  [[languages.tr.menu.main]]
+    identifier = 'search'
+    name = "Ara"
+    url = '/search/'
+    weight = 50
+
+# ══ 日本語 (ja) · 东亚 ═══════════════════════════════
+[languages.ja]
+  locale = "ja"
+  label = "日本語"
+  contentDir = 'content/ja'
+  weight = 9
+  title = "coinepay007"
+
+  [languages.ja.params]
+    description = "Coinepay · 海外サブスクと海外での支払い"
+    keywords = ["虚拟信用卡", "ChatGPT订阅", "海外会员", "虚拟卡开通", "Coinepay"]
+    langGroup = "ea"
+    noindex = true          # 暂不进 sitemap；有文章后删掉本行
+
+    [languages.ja.params.homeInfoParams]
+      Title = "Coinepay · 海外サブスクと海外での支払い"
+      Content = '''
+ChatGPT Plus や Claude を契約したい、YouTube Premium や Netflix に入りたい —— そして決済のところで止まる。おそらくこれが一番よくあるケースです。
+
+国内発行のカードはこれらのプラットフォームで通らないことが多く、拒否されるか、認証が延々と続きます。バーチャルカードはまさにこの一点を解決するためのものです。
+
+**何に使えるか**
+
+ChatGPT、Claude、Midjourney などの AI サービスの契約、YouTube・Netflix・Spotify の会員登録、米国 Apple ID の作成とカード登録、Facebook・Google・TikTok への広告出稿、海外サイトでの買い物や各種オンラインサービスの支払い。
+
+**使い方**
+
+登録後にオンラインで発行し、リアルタイムでチャージすれば、カード番号はすぐに使えます。実体カードの郵送を待つ必要はありません。多通貨決済に対応し、実際の利用額に応じて引き落とされます。
+
+発行でつまずいたら、いつでも担当者にご連絡ください，**Telegram [@coinepayqi](https://t.me/coinepayqi)** · **[WhatsApp](https://wa.me/message/2I3GXEELDVMHP1)**
+'''
+
+  [[languages.ja.menu.main]]
+    identifier = 'posts'
+    name = "記事"
+    url = '/posts/'
+    weight = 10
+  [[languages.ja.menu.main]]
+    identifier = 'archives'
+    name = "アーカイブ"
+    url = '/archives/'
+    weight = 20
+  [[languages.ja.menu.main]]
+    identifier = 'categories'
+    name = "カテゴリー"
+    url = '/categories/'
+    weight = 30
+  [[languages.ja.menu.main]]
+    identifier = 'tags'
+    name = "タグ"
+    url = '/tags/'
+    weight = 40
+  [[languages.ja.menu.main]]
+    identifier = 'search'
+    name = "検索"
+    url = '/search/'
+    weight = 50
+
+# ══ 한국어 (ko) · 东亚 ═══════════════════════════════
+[languages.ko]
+  locale = "ko"
+  label = "한국어"
+  contentDir = 'content/ko'
+  weight = 10
+  title = "coinepay007"
+
+  [languages.ko.params]
+    description = "Coinepay · 해외 구독과 해외 결제"
+    keywords = ["虚拟信用卡", "ChatGPT订阅", "海外会员", "虚拟卡开通", "Coinepay"]
+    langGroup = "ea"
+    noindex = true          # 暂不进 sitemap；有文章后删掉本行
+
+    [languages.ko.params.homeInfoParams]
+      Title = "Coinepay · 해외 구독과 해외 결제"
+      Content = '''
+ChatGPT Plus나 Claude를 구독하려고, 또는 YouTube Premium이나 Netflix에 가입하려고 하다가 결제 단계에서 막힙니다. 아마 가장 흔한 상황일 겁니다.
+
+국내 카드는 이런 플랫폼에서 자주 통과하지 못합니다. 곧바로 거절되거나 인증이 반복되죠. 가상카드는 바로 이 지점을 해결하기 위한 것입니다.
+
+**어디에 쓸 수 있나**
+
+ChatGPT, Claude, Midjourney 등 AI 서비스 구독, YouTube·Netflix·Spotify 멤버십 가입, 미국 Apple ID 생성 및 카드 등록, Facebook·Google·TikTok 광고 집행, 해외 사이트 쇼핑과 각종 온라인 서비스 결제.
+
+**어떻게 쓰나**
+
+가입 후 온라인으로 카드를 발급하고 실시간으로 충전하면 카드번호를 바로 쓸 수 있습니다. 실물 카드 배송을 기다릴 필요가 없습니다. 다중 통화로 정산되며 실제 사용액만큼 청구됩니다.
+
+발급 중 막히는 부분이 있으면 언제든 담당자에게 문의하세요，**Telegram [@coinepayqi](https://t.me/coinepayqi)** · **[WhatsApp](https://wa.me/message/2I3GXEELDVMHP1)**
+'''
+
+  [[languages.ko.menu.main]]
+    identifier = 'posts'
+    name = "게시글"
+    url = '/posts/'
+    weight = 10
+  [[languages.ko.menu.main]]
+    identifier = 'archives'
+    name = "아카이브"
+    url = '/archives/'
+    weight = 20
+  [[languages.ko.menu.main]]
+    identifier = 'categories'
+    name = "카테고리"
+    url = '/categories/'
+    weight = 30
+  [[languages.ko.menu.main]]
+    identifier = 'tags'
+    name = "태그"
+    url = '/tags/'
+    weight = 40
+  [[languages.ko.menu.main]]
+    identifier = 'search'
+    name = "검색"
+    url = '/search/'
+    weight = 50
+
+# ══ हिन्दी (hi) · 南亚 ════════════════════════════
+[languages.hi]
+  locale = "hi"
+  label = "हिन्दी"
+  contentDir = 'content/hi'
+  weight = 11
+  title = "coinepay007"
+
+  [languages.hi.params]
+    description = "Coinepay · विदेशी सब्सक्रिप्शन और खर्च"
+    keywords = ["虚拟信用卡", "ChatGPT订阅", "海外会员", "虚拟卡开通", "Coinepay"]
+    langGroup = "sa"
+    noindex = true          # 暂不进 sitemap；有文章后删掉本行
+
+    [languages.hi.params.homeInfoParams]
+      Title = "Coinepay · विदेशी सब्सक्रिप्शन और खर्च"
+      Content = '''
+आप ChatGPT Plus या Claude लेना चाहते हैं, या YouTube Premium या Netflix की सदस्यता — और भुगतान वाले चरण पर अटक जाते हैं। यही सबसे आम स्थिति है।
+
+स्थानीय कार्ड इन प्लेटफ़ॉर्म पर अक्सर काम नहीं करते: या तो सीधे अस्वीकार हो जाते हैं या बार-बार सत्यापन में फँस जाते हैं। वर्चुअल कार्ड ठीक इसी समस्या के लिए है:
+
+**किन कामों के लिए**
+
+ChatGPT, Claude, Midjourney और अन्य AI सेवाओं की सदस्यता; YouTube, Netflix और Spotify की मेंबरशिप; अमेरिकी Apple ID बनाकर कार्ड जोड़ना; Facebook, Google और TikTok पर विज्ञापन चलाना; विदेशी वेबसाइटों पर खरीदारी और हर तरह की ऑनलाइन सेवाओं का भुगतान।
+
+**इस्तेमाल कैसे करें**
+
+पंजीकरण के बाद ऑनलाइन कार्ड बनाएँ, तुरंत टॉप-अप करें, और कार्ड नंबर तत्काल उपयोग के लिए तैयार है — भौतिक कार्ड के डाक से आने का इंतज़ार नहीं। बहु-मुद्रा निपटान और वास्तविक खर्च के अनुसार कटौती।
+
+कार्ड बनाते समय कहीं अटकें तो सीधे संपर्क करें，**Telegram [@coinepayqi](https://t.me/coinepayqi)** · **[WhatsApp](https://wa.me/message/2I3GXEELDVMHP1)**
+'''
+
+  [[languages.hi.menu.main]]
+    identifier = 'posts'
+    name = "लेख"
+    url = '/posts/'
+    weight = 10
+  [[languages.hi.menu.main]]
+    identifier = 'archives'
+    name = "संग्रह"
+    url = '/archives/'
+    weight = 20
+  [[languages.hi.menu.main]]
+    identifier = 'categories'
+    name = "श्रेणियाँ"
+    url = '/categories/'
+    weight = 30
+  [[languages.hi.menu.main]]
+    identifier = 'tags'
+    name = "टैग"
+    url = '/tags/'
+    weight = 40
+  [[languages.hi.menu.main]]
+    identifier = 'search'
+    name = "खोज"
+    url = '/search/'
+    weight = 50
+
+# ══ বাংলা (bn) · 南亚 ═════════════════════════════
+[languages.bn]
+  locale = "bn"
+  label = "বাংলা"
+  contentDir = 'content/bn'
+  weight = 12
+  title = "coinepay007"
+
+  [languages.bn.params]
+    description = "Coinepay · বিদেশি সাবস্ক্রিপশন ও কেনাকাটা"
+    keywords = ["虚拟信用卡", "ChatGPT订阅", "海外会员", "虚拟卡开通", "Coinepay"]
+    langGroup = "sa"
+    noindex = true          # 暂不进 sitemap；有文章后删掉本行
+
+    [languages.bn.params.homeInfoParams]
+      Title = "Coinepay · বিদেশি সাবস্ক্রিপশন ও কেনাকাটা"
+      Content = '''
+আপনি ChatGPT Plus বা Claude নিতে চান, কিংবা YouTube Premium বা Netflix-এর সদস্যপদ — আর ঠিক পেমেন্টের ধাপে এসে আটকে যান। এটাই সবচেয়ে সাধারণ পরিস্থিতি।
+
+স্থানীয় কার্ড এসব প্ল্যাটফর্মে প্রায়ই কাজ করে না: হয় সরাসরি প্রত্যাখ্যাত হয়, নয়তো বারবার যাচাইয়ে আটকে যায়। ভার্চুয়াল কার্ড ঠিক এই সমস্যাটিই সমাধান করে:
+
+**কী কাজে লাগে**
+
+ChatGPT, Claude, Midjourney সহ অন্যান্য AI সেবায় সাবস্ক্রিপশন; YouTube, Netflix ও Spotify-এর সদস্যপদ; মার্কিন Apple ID তৈরি করে কার্ড যুক্ত করা; Facebook, Google ও TikTok-এ বিজ্ঞাপন চালানো; বিদেশি ওয়েবসাইটে কেনাকাটা ও সব ধরনের অনলাইন সেবার বিল পরিশোধ।
+
+**কীভাবে ব্যবহার করবেন**
+
+নিবন্ধনের পর অনলাইনে কার্ড তৈরি করুন, তাৎক্ষণিক টপ-আপ করুন, কার্ড নম্বর সঙ্গে সঙ্গেই ব্যবহারযোগ্য — ডাকযোগে কার্ড আসার অপেক্ষা নেই। বহু-মুদ্রায় নিষ্পত্তি এবং প্রকৃত খরচ অনুযায়ী কাটা হয়।
+
+কার্ড তৈরিতে কোথাও আটকে গেলে সরাসরি যোগাযোগ করুন，**Telegram [@coinepayqi](https://t.me/coinepayqi)** · **[WhatsApp](https://wa.me/message/2I3GXEELDVMHP1)**
+'''
+
+  [[languages.bn.menu.main]]
+    identifier = 'posts'
+    name = "নিবন্ধ"
+    url = '/posts/'
+    weight = 10
+  [[languages.bn.menu.main]]
+    identifier = 'archives'
+    name = "আর্কাইভ"
+    url = '/archives/'
+    weight = 20
+  [[languages.bn.menu.main]]
+    identifier = 'categories'
+    name = "বিভাগ"
+    url = '/categories/'
+    weight = 30
+  [[languages.bn.menu.main]]
+    identifier = 'tags'
+    name = "ট্যাগ"
+    url = '/tags/'
+    weight = 40
+  [[languages.bn.menu.main]]
+    identifier = 'search'
+    name = "অনুসন্ধান"
+    url = '/search/'
+    weight = 50
+
+# ══ اردو (ur) · 南亚 ══════════════════════════════
+[languages.ur]
+  locale = "ur"
+  label = "اردو"
+  direction = 'rtl'
+  contentDir = 'content/ur'
+  weight = 13
+  title = "coinepay007"
+
+  [languages.ur.params]
+    description = "Coinepay · بیرونِ ملک سبسکرپشن اور خریداری"
+    keywords = ["虚拟信用卡", "ChatGPT订阅", "海外会员", "虚拟卡开通", "Coinepay"]
+    langGroup = "sa"
+    noindex = true          # 暂不进 sitemap；有文章后删掉本行
+
+    [languages.ur.params.homeInfoParams]
+      Title = "Coinepay · بیرونِ ملک سبسکرپشن اور خریداری"
+      Content = '''
+آپ ChatGPT Plus یا Claude لینا چاہتے ہیں، یا YouTube Premium یا Netflix کی رکنیت —— اور عین ادائیگی کے مرحلے پر اٹک جاتے ہیں۔ یہی سب سے عام صورتحال ہے۔
+
+مقامی کارڈ ان پلیٹ فارمز پر اکثر نہیں چلتے: یا تو براہِ راست مسترد ہو جاتے ہیں یا بار بار تصدیق میں پھنس جاتے ہیں۔ ورچوئل کارڈ اسی مسئلے کو حل کرنے کے لیے ہے:
+
+**کن کاموں کے لیے**
+
+ChatGPT، Claude، Midjourney اور دیگر AI خدمات کی رکنیت؛ YouTube، Netflix اور Spotify کی ممبرشپ؛ امریکی Apple ID بنا کر کارڈ منسلک کرنا؛ Facebook، Google اور TikTok پر اشتہار چلانا؛ غیر ملکی ویب سائٹس سے خریداری اور ہر قسم کی آن لائن خدمات کی ادائیگی۔
+
+**استعمال کیسے کریں**
+
+رجسٹریشن کے بعد آن لائن کارڈ بنائیں، فوری ٹاپ اپ کریں، اور کارڈ نمبر فوراً قابلِ استعمال ہے —— جسمانی کارڈ کے ڈاک سے آنے کا انتظار نہیں۔ متعدد کرنسیوں میں تصفیہ اور حقیقی خرچ کے مطابق کٹوتی۔
+
+کارڈ بنانے میں کہیں رکاوٹ آئے تو براہِ راست رابطہ کریں，**Telegram [@coinepayqi](https://t.me/coinepayqi)** · **[WhatsApp](https://wa.me/message/2I3GXEELDVMHP1)**
+'''
+
+  [[languages.ur.menu.main]]
+    identifier = 'posts'
+    name = "مضامین"
+    url = '/posts/'
+    weight = 10
+  [[languages.ur.menu.main]]
+    identifier = 'archives'
+    name = "آرکائیو"
+    url = '/archives/'
+    weight = 20
+  [[languages.ur.menu.main]]
+    identifier = 'categories'
+    name = "زمرہ جات"
+    url = '/categories/'
+    weight = 30
+  [[languages.ur.menu.main]]
+    identifier = 'tags'
+    name = "ٹیگز"
+    url = '/tags/'
+    weight = 40
+  [[languages.ur.menu.main]]
+    identifier = 'search'
+    name = "تلاش"
+    url = '/search/'
+    weight = 50
+
+# ══ العربية (ar) · 中东 ═══════════════════════════
+[languages.ar]
+  locale = "ar"
+  label = "العربية"
+  direction = 'rtl'
+  contentDir = 'content/ar'
+  weight = 14
+  title = "coinepay007"
+
+  [languages.ar.params]
+    description = "Coinepay · الاشتراكات والمشتريات الخارجية"
+    keywords = ["虚拟信用卡", "ChatGPT订阅", "海外会员", "虚拟卡开通", "Coinepay"]
+    langGroup = "me"
+    noindex = true          # 暂不进 sitemap；有文章后删掉本行
+
+    [languages.ar.params.homeInfoParams]
+      Title = "Coinepay · الاشتراكات والمشتريات الخارجية"
+      Content = '''
+تريد ChatGPT Plus أو Claude، أو اشتراك YouTube Premium أو Netflix، فتتوقف عند خطوة الدفع بالتحديد —— وهذه أكثر الحالات شيوعًا بفارق كبير.
+
+البطاقات المحلية كثيرًا ما تفشل على هذه المنصات: إما أن تُرفض مباشرة أو تعلق في تحقق متكرر. البطاقة الافتراضية موجودة لحل هذه النقطة تحديدًا:
+
+**فيمَ تُستخدم**
+
+الاشتراك في ChatGPT وClaude وMidjourney وغيرها من خدمات الذكاء الاصطناعي؛ تفعيل عضويات YouTube وNetflix وSpotify؛ إنشاء حساب Apple أمريكي وربط بطاقة به؛ إطلاق إعلانات على Facebook وGoogle وTikTok؛ التسوق من المواقع الأجنبية ودفع مختلف الخدمات الرقمية.
+
+**كيف تُستخدم**
+
+سجّل، ثم أصدر البطاقة عبر الإنترنت واشحنها فورًا، فيصبح رقم البطاقة قابلًا للاستخدام على الفور دون انتظار وصول بطاقة فعلية بالبريد. التسوية بعملات متعددة والخصم حسب الإنفاق الفعلي.
+
+إن تعثرت في أي خطوة من إصدار البطاقة فتواصل معنا مباشرة，**Telegram [@coinepayqi](https://t.me/coinepayqi)** · **[WhatsApp](https://wa.me/message/2I3GXEELDVMHP1)**
+'''
+
+  [[languages.ar.menu.main]]
+    identifier = 'posts'
+    name = "المقالات"
+    url = '/posts/'
+    weight = 10
+  [[languages.ar.menu.main]]
+    identifier = 'archives'
+    name = "الأرشيف"
+    url = '/archives/'
+    weight = 20
+  [[languages.ar.menu.main]]
+    identifier = 'categories'
+    name = "التصنيفات"
+    url = '/categories/'
+    weight = 30
+  [[languages.ar.menu.main]]
+    identifier = 'tags'
+    name = "الوسوم"
+    url = '/tags/'
+    weight = 40
+  [[languages.ar.menu.main]]
+    identifier = 'search'
+    name = "بحث"
+    url = '/search/'
+    weight = 50
+
+# ══ ไทย (th) · 东南亚 ══════════════════════════════
+[languages.th]
+  locale = "th"
+  label = "ไทย"
+  contentDir = 'content/th'
+  weight = 15
+  title = "coinepay007"
+
+  [languages.th.params]
+    description = "Coinepay · การสมัครบริการและใช้จ่ายกับต่างประเทศ"
+    keywords = ["虚拟信用卡", "ChatGPT订阅", "海外会员", "虚拟卡开通", "Coinepay"]
+    langGroup = "sea"
+    noindex = true          # 暂不进 sitemap；有文章后删掉本行
+
+    [languages.th.params.homeInfoParams]
+      Title = "Coinepay · การสมัครบริการและใช้จ่ายกับต่างประเทศ"
+      Content = '''
+อยากสมัคร ChatGPT Plus หรือ Claude หรืออยากเปิด YouTube Premium กับ Netflix แล้วมาติดตรงขั้นตอนจ่ายเงิน นี่คือกรณีที่พบบ่อยที่สุด
+
+บัตรในประเทศมักผ่านไม่ได้บนแพลตฟอร์มเหล่านี้ ไม่ถูกปฏิเสธตรง ๆ ก็ติดการยืนยันซ้ำไปมา บัตรเสมือนมีไว้แก้ปัญหาตรงจุดนี้พอดี
+
+**ใช้ทำอะไรได้บ้าง**
+
+สมัคร ChatGPT, Claude, Midjourney และบริการ AI อื่น ๆ เปิดสมาชิก YouTube, Netflix และ Spotify สมัคร Apple ID โซนอเมริกาแล้วผูกบัตร ลงโฆษณาบน Facebook, Google และ TikTok ซื้อของจากเว็บต่างประเทศและจ่ายค่าบริการออนไลน์ทุกรูปแบบ
+
+**ใช้อย่างไร**
+
+สมัครแล้วออกบัตรออนไลน์ เติมเงินได้ทันที หมายเลขบัตรใช้งานได้เลยโดยไม่ต้องรอบัตรจริงส่งทางไปรษณีย์ รองรับหลายสกุลเงินและตัดตามยอดใช้จ่ายจริง
+
+ติดขัดตรงไหนระหว่างออกบัตร ทักมาได้เลย，**Telegram [@coinepayqi](https://t.me/coinepayqi)** · **[WhatsApp](https://wa.me/message/2I3GXEELDVMHP1)**
+'''
+
+  [[languages.th.menu.main]]
+    identifier = 'posts'
+    name = "บทความ"
+    url = '/posts/'
+    weight = 10
+  [[languages.th.menu.main]]
+    identifier = 'archives'
+    name = "คลังบทความ"
+    url = '/archives/'
+    weight = 20
+  [[languages.th.menu.main]]
+    identifier = 'categories'
+    name = "หมวดหมู่"
+    url = '/categories/'
+    weight = 30
+  [[languages.th.menu.main]]
+    identifier = 'tags'
+    name = "แท็ก"
+    url = '/tags/'
+    weight = 40
+  [[languages.th.menu.main]]
+    identifier = 'search'
+    name = "ค้นหา"
+    url = '/search/'
+    weight = 50
+
+# ══ Tiếng Việt (vi) · 东南亚 ═══════════════════════
+[languages.vi]
+  locale = "vi"
+  label = "Tiếng Việt"
+  contentDir = 'content/vi'
+  weight = 16
+  title = "coinepay007"
+
+  [languages.vi.params]
+    description = "Coinepay · Đăng ký dịch vụ và chi tiêu quốc tế"
+    keywords = ["虚拟信用卡", "ChatGPT订阅", "海外会员", "虚拟卡开通", "Coinepay"]
+    langGroup = "sea"
+    noindex = true          # 暂不进 sitemap；有文章后删掉本行
+
+    [languages.vi.params.homeInfoParams]
+      Title = "Coinepay · Đăng ký dịch vụ và chi tiêu quốc tế"
+      Content = '''
+Bạn muốn đăng ký ChatGPT Plus hay Claude, hoặc mở gói YouTube Premium, Netflix — rồi mắc kẹt đúng ở bước thanh toán. Đây là tình huống phổ biến nhất.
+
+Thẻ trong nước thường không qua được trên các nền tảng này: hoặc bị từ chối thẳng, hoặc kẹt trong vòng xác minh lặp đi lặp lại. Thẻ ảo sinh ra chính là để giải quyết bước này:
+
+**Dùng được vào việc gì**
+
+Đăng ký ChatGPT, Claude, Midjourney và các dịch vụ AI khác; mở gói YouTube, Netflix và Spotify; tạo Apple ID khu vực Mỹ và liên kết thẻ; chạy quảng cáo trên Facebook, Google và TikTok; mua sắm trên website nước ngoài và thanh toán mọi loại dịch vụ trực tuyến.
+
+**Dùng như thế nào**
+
+Đăng ký xong mở thẻ trực tuyến, nạp tiền tức thì, số thẻ dùng được ngay mà không phải chờ thẻ cứng gửi qua bưu điện. Thanh toán đa tiền tệ và trừ theo mức chi tiêu thực tế.
+
+Gặp vướng mắc khi mở thẻ thì nhắn trực tiếp，**Telegram [@coinepayqi](https://t.me/coinepayqi)** · **[WhatsApp](https://wa.me/message/2I3GXEELDVMHP1)**
+'''
+
+  [[languages.vi.menu.main]]
+    identifier = 'posts'
+    name = "Bài viết"
+    url = '/posts/'
+    weight = 10
+  [[languages.vi.menu.main]]
+    identifier = 'archives'
+    name = "Lưu trữ"
+    url = '/archives/'
+    weight = 20
+  [[languages.vi.menu.main]]
+    identifier = 'categories'
+    name = "Chuyên mục"
+    url = '/categories/'
+    weight = 30
+  [[languages.vi.menu.main]]
+    identifier = 'tags'
+    name = "Thẻ"
+    url = '/tags/'
+    weight = 40
+  [[languages.vi.menu.main]]
+    identifier = 'search'
+    name = "Tìm kiếm"
+    url = '/search/'
+    weight = 50
 
 [markup.highlight]
   noClasses = false

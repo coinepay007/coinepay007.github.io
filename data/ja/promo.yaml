@@ -1,0 +1,45 @@
+# 日本語 —— 文章页推广位文案。改这个文件即可，不用动 HTML/CSS。
+enable: true
+
+placement:
+  card: after-intro
+  energy: middle
+  contact: end
+
+badge: "PR"
+
+card:
+  title: "Coinepay バーチャルカード · 海外サービスの決済で止まらない"
+  body: "ChatGPT Plus、Claude、Midjourney の契約、YouTube Premium・Netflix・Spotify の会員登録、米国 Apple ID へのカード登録 —— 国内のカードはまさにこの段階で通らず、それを解決するのがバーチャルカードです。オンラインで発行、リアルタイムでチャージ、番号は即座に利用可能。郵送を待つ必要はありません。"
+  cta:
+    label: "登録してカードを作る →"
+    url: "https://www.coinepay.net/register?referrer=RFGSSDZ9"
+
+contact:
+  title: "発行についてのご相談"
+  body: "初めての発行、チャージが反映されない、加盟店側で拒否される —— つまずいた箇所をそのままお尋ねください。"
+  links:
+    - icon: "✈"
+      label: "Telegram"
+      url: "https://t.me/coinepayqi"
+    - icon: "💬"
+      label: "WhatsApp"
+      url: "https://wa.me/message/2I3GXEELDVMHP1"
+    - icon: "🎧"
+      label: "オンラインサポート"
+      url: "https://chat.ssrchat.com/service/grpect"
+    - icon: "💳"
+      label: "カード発行プラットフォームへ"
+      url: "https://www.coinepay.net/register?referrer=RFGSSDZ9"
+      primary: true
+
+energy:
+  icon: "⚡"
+  title: "ついでに：USDT の送金手数料も抑えられます"
+  points:
+    - "USDT-TRC20 でカードにチャージする際、エナジーが不足していると <b>13〜27 TRX</b> が余分に消えます。送金が頻繁なほど損失は膨らみます。"
+    - "先にエナジーをレンタルしてから送れば、1 回あたりのコストは <b>1.5〜1.7 TRX</b> 程度まで下がります。"
+    - "登録不要。TRX をプラットフォームの受取アドレスへ送るだけで、エナジーが送金元アドレスへ自動的に戻ります。"
+  cta:
+    label: "エナジーを借りる"
+    url: "https://login.trxapi.io/energy"

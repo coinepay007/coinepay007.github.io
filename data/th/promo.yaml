@@ -1,0 +1,45 @@
+# ไทย —— 文章页推广位文案。改这个文件即可，不用动 HTML/CSS。
+enable: true
+
+placement:
+  card: after-intro
+  energy: middle
+  contact: end
+
+badge: "โฆษณา"
+
+card:
+  title: "บัตรเสมือน Coinepay · ไม่ต้องติดตรงขั้นตอนจ่ายเงินให้บริการต่างประเทศอีก"
+  body: "สมัคร ChatGPT Plus, Claude และ Midjourney เปิดสมาชิก YouTube Premium, Netflix และ Spotify ผูกบัตรกับ Apple ID โซนอเมริกา บัตรในประเทศมักล้มเหลวตรงขั้นตอนนี้พอดี และบัตรเสมือนคือสิ่งที่แก้ได้ ออกบัตรออนไลน์ เติมเงินทันที ใช้หมายเลขได้เลยไม่ต้องรอไปรษณีย์"
+  cta:
+    label: "สมัครและออกบัตร →"
+    url: "https://www.coinepay.net/register?referrer=RFGSSDZ9"
+
+contact:
+  title: "สอบถามเรื่องออกบัตร"
+  body: "ออกบัตรครั้งแรก เติมเงินไม่เข้า แพลตฟอร์มปฏิเสธการตัดบัตร ติดตรงไหนถามได้ตรงนั้นเลย"
+  links:
+    - icon: "✈"
+      label: "Telegram"
+      url: "https://t.me/coinepayqi"
+    - icon: "💬"
+      label: "WhatsApp"
+      url: "https://wa.me/message/2I3GXEELDVMHP1"
+    - icon: "🎧"
+      label: "แชทสด"
+      url: "https://chat.ssrchat.com/service/grpect"
+    - icon: "💳"
+      label: "ไปที่แพลตฟอร์มออกบัตร"
+      url: "https://www.coinepay.net/register?referrer=RFGSSDZ9"
+      primary: true
+
+energy:
+  icon: "⚡"
+  title: "แถมอีกเรื่อง: ค่าโอน USDT ก็ประหยัดได้"
+  points:
+    - "เวลาเติมเงินเข้าบัตรด้วย USDT-TRC20 หากพลังงานไม่พอจะถูกเผาเพิ่มอีก <b>13–27 TRX</b> ยิ่งโอนบ่อยยิ่งเสียมาก"
+    - "เช่าพลังงานก่อนโอน จะกดต้นทุนต่อครั้งเหลือราว <b>1.5–1.7 TRX</b>"
+    - "ไม่ต้องสมัครสมาชิก เพียงโอน TRX ไปยังที่อยู่รับเงินของแพลตฟอร์ม พลังงานจะกลับมาที่ที่อยู่ผู้ส่งเอง"
+  cta:
+    label: "ไปเช่าพลังงาน"
+    url: "https://login.trxapi.io/energy"

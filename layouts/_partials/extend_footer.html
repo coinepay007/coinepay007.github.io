@@ -1,0 +1,31 @@
+{{- /* 语言切换面板：点击外部或按 Esc 时收起。
+       结构见 layouts/_partials/lang_switch.html。
+       不用 document.currentScript —— 它在脚本被移动或非解析期执行时会是 null，
+       之前就是这样报错的；改成按类名查询，放在 footer 里 DOM 已就绪。 */ -}}
+<script>
+  (function () {
+    function init() {
+      var boxes = document.querySelectorAll('details.lang-switch');
+      if (!boxes.length) return;
+      Array.prototype.forEach.call(boxes, function (d) {
+        d.addEventListener('keydown', function (e) {
+          if (e.key === 'Escape' && d.open) {
+            d.open = false;
+            var s = d.querySelector('summary');
+            if (s) s.focus();
+          }
+        });
+      });
+      document.addEventListener('click', function (e) {
+        Array.prototype.forEach.call(boxes, function (d) {
+          if (d.open && !d.contains(e.target)) d.open = false;
+        });
+      });
+    }
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', init);
+    } else {
+      init();
+    }
+  })();
+</script>

@@ -1,0 +1,144 @@
+/* 语言切换器。结构见 layouts/_partials/lang_switch.html。
+   用 inset-inline-* 而非 left/right，阿拉伯语和乌尔都语（dir=rtl）自动镜像。 */
+
+.lang-switch {
+    position: relative;
+    display: inline-block;
+}
+
+/* ── 触发器 ────────────────────────────────── */
+.lang-switch__trigger {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    padding: 4px 8px;
+    border-radius: var(--radius);
+    font-size: 15px;
+    line-height: 1;
+    color: var(--secondary);
+    cursor: pointer;
+    user-select: none;
+    white-space: nowrap;
+    list-style: none;           /* 去掉 <summary> 默认三角 */
+}
+
+.lang-switch__trigger::-webkit-details-marker,
+.lang-switch__trigger::marker {
+    display: none;
+    content: "";
+}
+
+.lang-switch__trigger:hover {
+    background: var(--tertiary);
+    color: var(--primary);
+}
+
+.lang-switch[open] .lang-switch__trigger {
+    background: var(--tertiary);
+    color: var(--primary);
+}
+
+.lang-switch__globe {
+    flex: none;
+    opacity: .8;
+}
+
+.lang-switch__caret {
+    flex: none;
+    opacity: .65;
+    transition: transform .15s ease;
+}
+
+.lang-switch[open] .lang-switch__caret {
+    transform: rotate(180deg);
+}
+
+/* ── 下拉面板 ──────────────────────────────── */
+.lang-panel {
+    position: absolute;
+    top: calc(100% + 8px);
+    inset-inline-end: 0;
+    z-index: 100;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(130px, 1fr));
+    gap: 4px 14px;
+    width: max-content;
+    max-width: min(88vw, 560px);
+    padding: 14px 16px;
+    background: var(--theme);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    box-shadow: 0 8px 28px rgba(0, 0, 0, .16);
+}
+
+.lang-panel__heading {
+    margin: 0 0 4px;
+    padding-inline-start: 8px;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: .04em;
+    color: var(--secondary);
+    opacity: .7;
+    white-space: nowrap;
+}
+
+.lang-panel__list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.lang-panel__list li {
+    margin: 0;
+}
+
+.lang-panel__item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    padding: 5px 8px;
+    border-radius: var(--radius);
+    font-size: 15px;
+    line-height: 1.35;
+    color: var(--primary);
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+.lang-panel__item:hover {
+    background: var(--tertiary);
+}
+
+.lang-panel__item.is-current {
+    font-weight: 600;
+}
+
+.lang-panel__check {
+    flex: none;
+    opacity: .75;
+}
+
+/* ── 窄屏 ──────────────────────────────────── */
+@media (max-width: 640px) {
+    .lang-panel {
+        grid-template-columns: repeat(2, minmax(120px, 1fr));
+        gap: 2px 10px;
+        padding: 12px;
+        max-width: 92vw;
+        max-height: 70vh;
+        overflow-y: auto;
+    }
+
+    .lang-switch__current {
+        max-width: 7em;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+}
+
+@media (max-width: 380px) {
+    .lang-panel {
+        grid-template-columns: 1fr;
+    }
+}

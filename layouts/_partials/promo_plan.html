@@ -4,7 +4,9 @@
 
 {{- $ctx := .ctx -}}
 {{- $content := .content -}}
-{{- $p := site.Data.promo -}}
+{{- /* 按当前语言取文案，与 promo.html 保持一致 */ -}}
+{{- $p := false -}}
+{{- with index hugo.Data site.Language.Lang -}}{{- with .promo -}}{{- $p = . -}}{{- end -}}{{- end -}}
 {{- $inline := slice -}}
 {{- $end := slice -}}
 

@@ -1,10 +1,12 @@
-{{- /* 推广位。内容来自 data/promo.yaml；样式在 assets/css/extended/promo.css。
+{{- /* 推广位。内容来自 data/<语言>/promo.yaml（16 种语言各一份）；样式在 assets/css/extended/promo.css。
        用法：{{ partial "promo.html" (dict "ctx" . ) }}
              {{ partial "promo.html" (dict "ctx" . "only" "energy") }}  仅渲染某一块 */ -}}
-{{- $p := site.Data.promo -}}
+{{- /* 按当前语言取文案：data/<语言>/promo.yaml */ -}}
+{{- $p := false -}}
+{{- with index hugo.Data site.Language.Lang -}}{{- with .promo -}}{{- $p = . -}}{{- end -}}{{- end -}}
 {{- $only := .only | default "" -}}
 {{- if and $p $p.enable -}}
-<aside class="promo" aria-label="推广内容">
+<aside class="promo" aria-label="{{ i18n "promoLabel" }}">
 
   {{- if or (eq $only "") (eq $only "card") }}
   {{- with $p.card }}

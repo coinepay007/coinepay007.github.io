@@ -1,0 +1,45 @@
+# 한국어 —— 文章页推广位文案。改这个文件即可，不用动 HTML/CSS。
+enable: true
+
+placement:
+  card: after-intro
+  energy: middle
+  contact: end
+
+badge: "광고"
+
+card:
+  title: "Coinepay 가상카드 · 해외 서비스 결제에서 더 이상 막히지 않게"
+  body: "ChatGPT Plus, Claude, Midjourney 구독, YouTube Premium·Netflix·Spotify 멤버십, 미국 Apple ID 카드 등록 —— 국내 카드는 정확히 이 단계에서 실패하고, 가상카드가 그것을 해결합니다. 온라인 발급, 실시간 충전, 카드번호 즉시 사용 가능하며 배송을 기다릴 필요가 없습니다."
+  cta:
+    label: "가입하고 카드 발급 →"
+    url: "https://www.coinepay.net/register?referrer=RFGSSDZ9"
+
+contact:
+  title: "발급 문의"
+  body: "첫 발급, 충전 미반영, 가맹점 결제 거절 —— 막힌 지점을 그대로 물어보세요."
+  links:
+    - icon: "✈"
+      label: "Telegram"
+      url: "https://t.me/coinepayqi"
+    - icon: "💬"
+      label: "WhatsApp"
+      url: "https://wa.me/message/2I3GXEELDVMHP1"
+    - icon: "🎧"
+      label: "실시간 상담"
+      url: "https://chat.ssrchat.com/service/grpect"
+    - icon: "💳"
+      label: "카드 발급 플랫폼으로"
+      url: "https://www.coinepay.net/register?referrer=RFGSSDZ9"
+      primary: true
+
+energy:
+  icon: "⚡"
+  title: "덧붙이자면: USDT 전송 수수료도 아낄 수 있습니다"
+  points:
+    - "USDT-TRC20으로 카드를 충전할 때 에너지가 부족하면 <b>13~27 TRX</b>가 추가로 소모되며, 자주 보낼수록 손실이 커집니다."
+    - "먼저 에너지를 대여한 뒤 전송하면 건당 비용을 <b>1.5~1.7 TRX</b> 수준까지 낮출 수 있습니다."
+    - "가입이 필요 없습니다. TRX를 플랫폼 수취 주소로 보내면 에너지가 보내는 주소로 자동 위임됩니다."
+  cta:
+    label: "에너지 대여하기"
+    url: "https://login.trxapi.io/energy"

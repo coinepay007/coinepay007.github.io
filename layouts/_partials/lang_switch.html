@@ -1,0 +1,72 @@
+{{- /* 语言切换器：头部文字触发 + 按语区分组的多列下拉面板。
+       分组来自各语言的 params.langGroup（见 hugo.toml），
+       分组标题来自 i18n/<语言>.yaml 的 langGroupXx 键。
+       用 <details> 实现，禁用 JS 也能展开；点外部收起的脚本在 extend_footer.html。
+       样式在 assets/css/extended/lang-switch.css。 */ -}}
+
+{{- $cur := site.Language.Lang -}}
+{{- $all := site.Home.AllTranslations -}}
+{{- if gt (len $all) 1 -}}
+{{- $groups := slice
+      (dict "key" "ea"  "label" (i18n "langGroupEa"))
+      (dict "key" "sa"  "label" (i18n "langGroupSa"))
+      (dict "key" "sea" "label" (i18n "langGroupSea"))
+      (dict "key" "me"  "label" (i18n "langGroupMe"))
+      (dict "key" "eu"  "label" (i18n "langGroupEu"))
+-}}
+
+<details class="lang-switch">
+  <summary class="lang-switch__trigger" title="{{ i18n "selectLanguage" }}" aria-label="{{ i18n "selectLanguage" }}">
+    <svg class="lang-switch__globe" xmlns="http://www.w3.org/2000/svg" width="15" height="15"
+         viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+         stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <circle cx="12" cy="12" r="10"></circle>
+      <line x1="2" y1="12" x2="22" y2="12"></line>
+      <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path>
+    </svg>
+    <span class="lang-switch__current">{{ site.Language.Label | default (site.Language.Lang | upper) }}</span>
+    <svg class="lang-switch__caret" xmlns="http://www.w3.org/2000/svg" width="12" height="12"
+         viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"
+         stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <polyline points="6 9 12 15 18 9"></polyline>
+    </svg>
+  </summary>
+
+  <div class="lang-panel">
+    {{- range $g := $groups }}
+      {{- /* 不用 where 走嵌套路径，逐个比对更稳 */ -}}
+      {{- $items := slice }}
+      {{- range $all }}
+        {{- if eq (.Language.Params.langGroup | default "") $g.key }}
+          {{- $items = $items | append . }}
+        {{- end }}
+      {{- end }}
+      {{- with $items }}
+      <div class="lang-panel__group">
+        <p class="lang-panel__heading">{{ $g.label }}</p>
+        <ul class="lang-panel__list">
+          {{- range . }}
+          {{- $isCur := eq .Language.Lang $cur }}
+          <li>
+            <a class="lang-panel__item{{ if $isCur }} is-current{{ end }}"
+               href="{{ .Permalink }}" lang="{{ .Language.Lang }}"
+               {{- if $isCur }} aria-current="true"{{ end }}>
+              <span class="lang-panel__name">{{ .Language.Label | default (.Language.Lang | upper) }}</span>
+              {{- if $isCur }}
+              <svg class="lang-panel__check" xmlns="http://www.w3.org/2000/svg" width="14" height="14"
+                   viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"
+                   stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <polyline points="20 6 9 17 4 12"></polyline>
+              </svg>
+              {{- end }}
+            </a>
+          </li>
+          {{- end }}
+        </ul>
+      </div>
+      {{- end }}
+    {{- end }}
+  </div>
+</details>
+
+{{- end -}}

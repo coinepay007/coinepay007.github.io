@@ -1,0 +1,45 @@
+# Tiếng Việt —— 文章页推广位文案。改这个文件即可，不用动 HTML/CSS。
+enable: true
+
+placement:
+  card: after-intro
+  energy: middle
+  contact: end
+
+badge: "Tài trợ"
+
+card:
+  title: "Thẻ ảo Coinepay · Đừng mắc kẹt ở khâu thanh toán dịch vụ quốc tế nữa"
+  body: "Đăng ký ChatGPT Plus, Claude và Midjourney, mở gói YouTube Premium, Netflix và Spotify, liên kết thẻ với Apple ID Mỹ —— thẻ trong nước thất bại đúng ở bước này, và thẻ ảo là thứ giải quyết được. Mở thẻ trực tuyến, nạp tiền tức thì, dùng số thẻ ngay không cần chờ bưu điện."
+  cta:
+    label: "Đăng ký và mở thẻ →"
+    url: "https://www.coinepay.net/register?referrer=RFGSSDZ9"
+
+contact:
+  title: "Hỗ trợ mở thẻ"
+  body: "Mở thẻ lần đầu, nạp tiền chưa vào, nền tảng từ chối thanh toán —— vướng ở đâu hỏi thẳng ở đó."
+  links:
+    - icon: "✈"
+      label: "Telegram"
+      url: "https://t.me/coinepayqi"
+    - icon: "💬"
+      label: "WhatsApp"
+      url: "https://wa.me/message/2I3GXEELDVMHP1"
+    - icon: "🎧"
+      label: "Hỗ trợ trực tuyến"
+      url: "https://chat.ssrchat.com/service/grpect"
+    - icon: "💳"
+      label: "Vào nền tảng mở thẻ"
+      url: "https://www.coinepay.net/register?referrer=RFGSSDZ9"
+      primary: true
+
+energy:
+  icon: "⚡"
+  title: "Tiện thể: phí chuyển USDT cũng có thể rẻ hơn"
+  points:
+    - "Khi nạp thẻ bằng USDT-TRC20, nếu thiếu năng lượng sẽ đốt thêm <b>13–27 TRX</b>, và càng chuyển nhiều thì hao càng lớn."
+    - "Thuê năng lượng trước khi chuyển sẽ kéo chi phí mỗi lần xuống còn khoảng <b>1,5–1,7 TRX</b>."
+    - "Không cần đăng ký: chuyển TRX tới địa chỉ nhận của nền tảng, năng lượng sẽ tự về địa chỉ gửi của bạn."
+  cta:
+    label: "Thuê năng lượng"
+    url: "https://login.trxapi.io/energy"

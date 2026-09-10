@@ -1,0 +1,45 @@
+# Română —— 文章页推广位文案。改这个文件即可，不用动 HTML/CSS。
+enable: true
+
+placement:
+  card: after-intro
+  energy: middle
+  contact: end
+
+badge: "Promovat"
+
+card:
+  title: "Carduri virtuale Coinepay · Nu te mai bloca la plata serviciilor din străinătate"
+  body: "Abonamente ChatGPT Plus, Claude și Midjourney, planuri YouTube Premium, Netflix și Spotify, asocierea unui card la un Apple ID din SUA — cardurile locale eșuează exact în acest punct, iar cardul virtual rezolvă problema. Emitere online, alimentare în timp real, numărul funcționează imediat."
+  cta:
+    label: "Înregistrează-te și solicită cardul →"
+    url: "https://www.coinepay.net/register?referrer=RFGSSDZ9"
+
+contact:
+  title: "Întrebări despre emitere"
+  body: "Prima emitere, alimentare care nu a ajuns, platformă care refuză plata — întreabă direct acolo unde te-ai blocat."
+  links:
+    - icon: "✈"
+      label: "Telegram"
+      url: "https://t.me/coinepayqi"
+    - icon: "💬"
+      label: "WhatsApp"
+      url: "https://wa.me/message/2I3GXEELDVMHP1"
+    - icon: "🎧"
+      label: "Asistență live"
+      url: "https://chat.ssrchat.com/service/grpect"
+    - icon: "💳"
+      label: "Intră pe platformă"
+      url: "https://www.coinepay.net/register?referrer=RFGSSDZ9"
+      primary: true
+
+energy:
+  icon: "⚡"
+  title: "Apropo: și transferurile USDT pot costa mai puțin"
+  points:
+    - "Alimentarea cardului cu USDT-TRC20 consumă <b>13–27 TRX</b> în plus când energia lipsește, iar cu cât transferi mai des, cu atât pierzi mai mult."
+    - "Dacă închiriezi energie înainte de transfer, costul pe operațiune scade la aproximativ <b>1,5–1,7 TRX</b>."
+    - "Fără înregistrare: trimite TRX la adresa platformei, iar energia este delegată către adresa ta de expediere."
+  cta:
+    label: "Închiriază energie"
+    url: "https://login.trxapi.io/energy"

@@ -1,0 +1,20 @@
+{{- /* 覆盖 Hugo 内置的 sitemapindex：跳过 params.noindex = true 的语言。
+       这些语言还没有文章，先不提交给搜索引擎；等有内容了，把该语言在
+       hugo.toml 里的 noindex 一行删掉即可自动出现在这里。
+       注意：Hugo 的 per-language [sitemap] disable 对多语言站点不生效，
+       所以只能在这一层过滤。 */ -}}
+{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {{- range . }}
+  {{- if not .Params.noindex }}
+  <sitemap>
+    <loc>{{ .SitemapAbsURL }}</loc>
+    {{- with .Home.Lastmod }}
+    {{- if not .IsZero }}
+    <lastmod>{{ .Format "2006-01-02T15:04:05-07:00" | safeHTML }}</lastmod>
+    {{- end }}
+    {{- end }}
+  </sitemap>
+  {{- end }}
+  {{- end }}
+</sitemapindex>

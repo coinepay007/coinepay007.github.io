@@ -1,0 +1,45 @@
+# English —— 文章页推广位文案。改这个文件即可，不用动 HTML/CSS。
+enable: true
+
+placement:
+  card: after-intro
+  energy: middle
+  contact: end
+
+badge: "Sponsored"
+
+card:
+  title: "Coinepay virtual cards · Stop getting stuck at checkout for overseas services"
+  body: "ChatGPT Plus, Claude and Midjourney subscriptions, YouTube Premium, Netflix and Spotify memberships, attaching a card to a US Apple ID — local cards frequently fail at this step, and a virtual card is what solves it. Issue online, top up in real time, and use the number immediately without waiting for the post."
+  cta:
+    label: "Register and get a card →"
+    url: "https://www.coinepay.net/register?referrer=RFGSSDZ9"
+
+contact:
+  title: "Card issuance help"
+  body: "First-time issuance, top-ups that have not landed, a platform refusing the charge — ask directly wherever you are stuck."
+  links:
+    - icon: "✈"
+      label: "Telegram"
+      url: "https://t.me/coinepayqi"
+    - icon: "💬"
+      label: "WhatsApp"
+      url: "https://wa.me/message/2I3GXEELDVMHP1"
+    - icon: "🎧"
+      label: "Live support"
+      url: "https://chat.ssrchat.com/service/grpect"
+    - icon: "💳"
+      label: "Open the card platform"
+      url: "https://www.coinepay.net/register?referrer=RFGSSDZ9"
+      primary: true
+
+energy:
+  icon: "⚡"
+  title: "While you are here: USDT transfers can cost less too"
+  points:
+    - "Topping up a card with USDT-TRC20 burns an extra <b>13–27 TRX</b> when energy runs short, and the more often you transfer the more it costs."
+    - "Rent energy before transferring and the cost per transfer drops to roughly <b>1.5–1.7 TRX</b>."
+    - "No registration: send TRX to the platform address and the energy is delegated back to your sending address."
+  cta:
+    label: "Rent energy"
+    url: "https://login.trxapi.io/energy"

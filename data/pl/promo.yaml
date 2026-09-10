@@ -1,0 +1,45 @@
+# Polski —— 文章页推广位文案。改这个文件即可，不用动 HTML/CSS。
+enable: true
+
+placement:
+  card: after-intro
+  energy: middle
+  contact: end
+
+badge: "Sponsorowane"
+
+card:
+  title: "Karty wirtualne Coinepay · Koniec z utykaniem na płatności za zagraniczne usługi"
+  body: "Subskrypcje ChatGPT Plus, Claude i Midjourney, abonamenty YouTube Premium, Netflix i Spotify, podpięcie karty do amerykańskiego Apple ID — lokalne karty zawodzą właśnie na tym etapie, a karta wirtualna to rozwiązuje. Wydanie online, doładowanie w czasie rzeczywistym, numer gotowy od razu."
+  cta:
+    label: "Zarejestruj się i zamów kartę →"
+    url: "https://www.coinepay.net/register?referrer=RFGSSDZ9"
+
+contact:
+  title: "Pomoc przy wydaniu karty"
+  body: "Pierwsze wydanie, doładowanie, które nie doszło, platforma odrzucająca płatność — pytaj wprost tam, gdzie utknąłeś."
+  links:
+    - icon: "✈"
+      label: "Telegram"
+      url: "https://t.me/coinepayqi"
+    - icon: "💬"
+      label: "WhatsApp"
+      url: "https://wa.me/message/2I3GXEELDVMHP1"
+    - icon: "🎧"
+      label: "Czat na żywo"
+      url: "https://chat.ssrchat.com/service/grpect"
+    - icon: "💳"
+      label: "Przejdź do platformy"
+      url: "https://www.coinepay.net/register?referrer=RFGSSDZ9"
+      primary: true
+
+energy:
+  icon: "⚡"
+  title: "Przy okazji: przelewy USDT też mogą kosztować mniej"
+  points:
+    - "Doładowanie karty w USDT-TRC20 spala dodatkowe <b>13–27 TRX</b>, gdy brakuje energii, a im częstsze przelewy, tym większa strata."
+    - "Wynajem energii przed przelewem obniża koszt pojedynczej operacji do około <b>1,5–1,7 TRX</b>."
+    - "Bez rejestracji: wyślij TRX na adres platformy, a energia trafi na Twój adres nadawcy."
+  cta:
+    label: "Wynajmij energię"
+    url: "https://login.trxapi.io/energy"

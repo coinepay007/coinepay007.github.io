@@ -1,0 +1,45 @@
+# Português —— 文章页推广位文案。改这个文件即可，不用动 HTML/CSS。
+enable: true
+
+placement:
+  card: after-intro
+  energy: middle
+  contact: end
+
+badge: "Patrocinado"
+
+card:
+  title: "Cartões virtuais Coinepay · Pare de travar no pagamento de serviços estrangeiros"
+  body: "Assinaturas de ChatGPT Plus, Claude e Midjourney, planos de YouTube Premium, Netflix e Spotify, vincular cartão a um Apple ID dos EUA: é aí que os cartões nacionais falham, e o cartão virtual é o que resolve. Emissão online, recarga em tempo real e número utilizável na hora."
+  cta:
+    label: "Cadastre-se e peça o cartão →"
+    url: "https://www.coinepay.net/register?referrer=RFGSSDZ9"
+
+contact:
+  title: "Dúvidas sobre emissão"
+  body: "Primeira emissão, recarga que não caiu, plataforma recusando a cobrança: pergunte direto onde travou."
+  links:
+    - icon: "✈"
+      label: "Telegram"
+      url: "https://t.me/coinepayqi"
+    - icon: "💬"
+      label: "WhatsApp"
+      url: "https://wa.me/message/2I3GXEELDVMHP1"
+    - icon: "🎧"
+      label: "Suporte ao vivo"
+      url: "https://chat.ssrchat.com/service/grpect"
+    - icon: "💳"
+      label: "Acessar a plataforma"
+      url: "https://www.coinepay.net/register?referrer=RFGSSDZ9"
+      primary: true
+
+energy:
+  icon: "⚡"
+  title: "Já que estamos aqui: transferências de USDT também podem custar menos"
+  points:
+    - "Recarregar o cartão com USDT-TRC20 queima <b>13–27 TRX</b> a mais quando falta energia, e quanto mais frequentes as transferências, maior a perda."
+    - "Alugando energia antes de transferir, o custo por operação cai para cerca de <b>1,5–1,7 TRX</b>."
+    - "Sem cadastro: envie TRX ao endereço da plataforma e a energia é delegada ao seu endereço de envio."
+  cta:
+    label: "Alugar energia"
+    url: "https://login.trxapi.io/energy"

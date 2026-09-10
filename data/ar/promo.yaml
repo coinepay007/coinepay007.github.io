@@ -1,0 +1,45 @@
+# العربية —— 文章页推广位文案。改这个文件即可，不用动 HTML/CSS。
+enable: true
+
+placement:
+  card: after-intro
+  energy: middle
+  contact: end
+
+badge: "إعلان"
+
+card:
+  title: "بطاقات Coinepay الافتراضية · لا تتوقف بعد اليوم عند دفع الخدمات الأجنبية"
+  body: "اشتراكات ChatGPT Plus وClaude وMidjourney، وعضويات YouTube Premium وNetflix وSpotify، وربط بطاقة بحساب Apple أمريكي —— عند هذه الخطوة تحديدًا تفشل البطاقات المحلية، والبطاقة الافتراضية هي ما يحلها. إصدار عبر الإنترنت، وشحن فوري، ورقم جاهز للاستخدام دون انتظار البريد."
+  cta:
+    label: "سجّل واحصل على بطاقة ←"
+    url: "https://www.coinepay.net/register?referrer=RFGSSDZ9"
+
+contact:
+  title: "مساعدة في إصدار البطاقة"
+  body: "الإصدار لأول مرة، شحن لم يصل، منصة ترفض الدفع —— اسأل مباشرة عند النقطة التي تعثرت فيها."
+  links:
+    - icon: "✈"
+      label: "Telegram"
+      url: "https://t.me/coinepayqi"
+    - icon: "💬"
+      label: "WhatsApp"
+      url: "https://wa.me/message/2I3GXEELDVMHP1"
+    - icon: "🎧"
+      label: "الدعم المباشر"
+      url: "https://chat.ssrchat.com/service/grpect"
+    - icon: "💳"
+      label: "الانتقال إلى المنصة"
+      url: "https://www.coinepay.net/register?referrer=RFGSSDZ9"
+      primary: true
+
+energy:
+  icon: "⚡"
+  title: "وبالمناسبة: تحويلات USDT يمكن أن تكلّف أقل أيضًا"
+  points:
+    - "شحن البطاقة عبر USDT-TRC20 يحرق <b>13 إلى 27 TRX</b> إضافية عند نقص الطاقة، وكلما زاد تكرار التحويل زادت الخسارة."
+    - "باستئجار الطاقة قبل التحويل تنخفض تكلفة العملية الواحدة إلى نحو <b>1.5 إلى 1.7 TRX</b>."
+    - "دون تسجيل: أرسل TRX إلى عنوان المنصة، وتُفوَّض الطاقة إلى عنوان الإرسال الخاص بك."
+  cta:
+    label: "استأجر الطاقة"
+    url: "https://login.trxapi.io/energy"

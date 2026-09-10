@@ -1,0 +1,45 @@
+# বাংলা —— 文章页推广位文案。改这个文件即可，不用动 HTML/CSS。
+enable: true
+
+placement:
+  card: after-intro
+  energy: middle
+  contact: end
+
+badge: "পৃষ্ঠপোষকতায়"
+
+card:
+  title: "Coinepay ভার্চুয়াল কার্ড · বিদেশি সেবার পেমেন্টে আর আটকে থাকবেন না"
+  body: "ChatGPT Plus, Claude ও Midjourney-এর সাবস্ক্রিপশন, YouTube Premium, Netflix ও Spotify-এর সদস্যপদ, মার্কিন Apple ID-তে কার্ড যুক্ত করা —— স্থানীয় কার্ড ঠিক এই ধাপেই ব্যর্থ হয়, আর ভার্চুয়াল কার্ড সেটাই সমাধান করে। অনলাইনে কার্ড তৈরি, তাৎক্ষণিক টপ-আপ, নম্বর সঙ্গে সঙ্গেই ব্যবহারযোগ্য।"
+  cta:
+    label: "নিবন্ধন করে কার্ড নিন →"
+    url: "https://www.coinepay.net/register?referrer=RFGSSDZ9"
+
+contact:
+  title: "কার্ড তৈরির সহায়তা"
+  body: "প্রথমবার কার্ড তৈরি, টপ-আপ না পৌঁছানো, প্ল্যাটফর্ম পেমেন্ট প্রত্যাখ্যান করা —— যেখানে আটকেছেন সেখানেই সরাসরি জিজ্ঞেস করুন।"
+  links:
+    - icon: "✈"
+      label: "Telegram"
+      url: "https://t.me/coinepayqi"
+    - icon: "💬"
+      label: "WhatsApp"
+      url: "https://wa.me/message/2I3GXEELDVMHP1"
+    - icon: "🎧"
+      label: "লাইভ সাপোর্ট"
+      url: "https://chat.ssrchat.com/service/grpect"
+    - icon: "💳"
+      label: "কার্ড প্ল্যাটফর্মে যান"
+      url: "https://www.coinepay.net/register?referrer=RFGSSDZ9"
+      primary: true
+
+energy:
+  icon: "⚡"
+  title: "পাশাপাশি: USDT ট্রান্সফারেও খরচ কমানো যায়"
+  points:
+    - "USDT-TRC20 দিয়ে কার্ড টপ-আপ করার সময় এনার্জি কম থাকলে বাড়তি <b>১৩–২৭ TRX</b> পুড়ে যায়, আর যত ঘন ঘন পাঠাবেন ক্ষতি তত বাড়বে।"
+    - "ট্রান্সফারের আগে এনার্জি ভাড়া নিলে প্রতি লেনদেনের খরচ প্রায় <b>১.৫–১.৭ TRX</b>-এ নেমে আসে।"
+    - "নিবন্ধন লাগে না: প্ল্যাটফর্মের ঠিকানায় TRX পাঠান, এনার্জি আপনার পাঠানোর ঠিকানায় অর্পিত হবে।"
+  cta:
+    label: "এনার্জি ভাড়া নিন"
+    url: "https://login.trxapi.io/energy"

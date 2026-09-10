@@ -1,0 +1,45 @@
+# Français —— 文章页推广位文案。改这个文件即可，不用动 HTML/CSS。
+enable: true
+
+placement:
+  card: after-intro
+  energy: middle
+  contact: end
+
+badge: "Sponsorisé"
+
+card:
+  title: "Cartes virtuelles Coinepay · Ne bloquez plus au paiement des services étrangers"
+  body: "Abonnements ChatGPT Plus, Claude et Midjourney, adhésions YouTube Premium, Netflix et Spotify, association d’une carte à un identifiant Apple américain : les cartes locales échouent précisément à cette étape, et la carte virtuelle est ce qui la débloque. Émission en ligne, recharge en temps réel, numéro utilisable immédiatement."
+  cta:
+    label: "S’inscrire et obtenir une carte →"
+    url: "https://www.coinepay.net/register?referrer=RFGSSDZ9"
+
+contact:
+  title: "Aide à l’émission"
+  body: "Première émission, recharge qui n’arrive pas, plateforme qui refuse le paiement : posez la question là où vous bloquez."
+  links:
+    - icon: "✈"
+      label: "Telegram"
+      url: "https://t.me/coinepayqi"
+    - icon: "💬"
+      label: "WhatsApp"
+      url: "https://wa.me/message/2I3GXEELDVMHP1"
+    - icon: "🎧"
+      label: "Assistance en direct"
+      url: "https://chat.ssrchat.com/service/grpect"
+    - icon: "💳"
+      label: "Accéder à la plateforme"
+      url: "https://www.coinepay.net/register?referrer=RFGSSDZ9"
+      primary: true
+
+energy:
+  icon: "⚡"
+  title: "Au passage : les transferts USDT aussi peuvent coûter moins cher"
+  points:
+    - "Recharger une carte en USDT-TRC20 consomme <b>13 à 27 TRX</b> supplémentaires quand l’énergie manque, et plus vous transférez souvent, plus la perte s’accumule."
+    - "En louant de l’énergie avant le transfert, le coût unitaire tombe à environ <b>1,5–1,7 TRX</b>."
+    - "Sans inscription : envoyez des TRX à l’adresse de la plateforme et l’énergie est déléguée à votre adresse d’envoi."
+  cta:
+    label: "Louer de l’énergie"
+    url: "https://login.trxapi.io/energy"

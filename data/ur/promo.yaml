@@ -1,0 +1,45 @@
+# اردو —— 文章页推广位文案。改这个文件即可，不用动 HTML/CSS。
+enable: true
+
+placement:
+  card: after-intro
+  energy: middle
+  contact: end
+
+badge: "اشتہار"
+
+card:
+  title: "Coinepay ورچوئل کارڈ · بیرونِ ملک خدمات کی ادائیگی پر اب مت اٹکیں"
+  body: "ChatGPT Plus، Claude اور Midjourney کی رکنیت، YouTube Premium، Netflix اور Spotify کی ممبرشپ، امریکی Apple ID سے کارڈ منسلک کرنا —— مقامی کارڈ عین اسی مرحلے پر ناکام ہوتے ہیں، اور ورچوئل کارڈ یہی حل کرتا ہے۔ آن لائن کارڈ بنائیں، فوری ٹاپ اپ کریں، نمبر فوراً قابلِ استعمال، ڈاک کا انتظار نہیں۔"
+  cta:
+    label: "رجسٹر ہو کر کارڈ حاصل کریں ←"
+    url: "https://www.coinepay.net/register?referrer=RFGSSDZ9"
+
+contact:
+  title: "کارڈ بنانے میں مدد"
+  body: "پہلی بار کارڈ بنانا، ٹاپ اپ کا نہ پہنچنا، پلیٹ فارم کا ادائیگی مسترد کرنا —— جہاں رکاوٹ آئے وہیں براہِ راست پوچھیں۔"
+  links:
+    - icon: "✈"
+      label: "Telegram"
+      url: "https://t.me/coinepayqi"
+    - icon: "💬"
+      label: "WhatsApp"
+      url: "https://wa.me/message/2I3GXEELDVMHP1"
+    - icon: "🎧"
+      label: "لائیو معاونت"
+      url: "https://chat.ssrchat.com/service/grpect"
+    - icon: "💳"
+      label: "کارڈ پلیٹ فارم پر جائیں"
+      url: "https://www.coinepay.net/register?referrer=RFGSSDZ9"
+      primary: true
+
+energy:
+  icon: "⚡"
+  title: "ساتھ ہی: USDT ٹرانسفر بھی سستا ہو سکتا ہے"
+  points:
+    - "USDT-TRC20 سے کارڈ ٹاپ اپ کرتے وقت انرجی کم ہو تو اضافی <b>13 تا 27 TRX</b> جل جاتے ہیں، اور جتنی زیادہ بار بھیجیں گے نقصان اتنا بڑھے گا۔"
+    - "ٹرانسفر سے پہلے انرجی کرائے پر لیں تو فی لین دین لاگت تقریباً <b>1.5 تا 1.7 TRX</b> رہ جاتی ہے۔"
+    - "رجسٹریشن ضروری نہیں: TRX پلیٹ فارم کے پتے پر بھیجیں، انرجی آپ کے بھیجنے والے پتے کو تفویض ہو جائے گی۔"
+  cta:
+    label: "انرجی کرائے پر لیں"
+    url: "https://login.trxapi.io/energy"

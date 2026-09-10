@@ -1,0 +1,45 @@
+# Türkçe —— 文章页推广位文案。改这个文件即可，不用动 HTML/CSS。
+enable: true
+
+placement:
+  card: after-intro
+  energy: middle
+  contact: end
+
+badge: "Sponsorlu"
+
+card:
+  title: "Coinepay sanal kartları · Yurt dışı hizmetlerinde ödeme adımında takılmayın"
+  body: "ChatGPT Plus, Claude ve Midjourney abonelikleri, YouTube Premium, Netflix ve Spotify üyelikleri, ABD Apple ID’sine kart bağlama —— yerel kartlar tam bu adımda başarısız olur, sanal kart ise bunu çözer. Çevrimiçi kart çıkarma, anlık yükleme, numara hemen kullanılabilir."
+  cta:
+    label: "Kaydolun ve kart alın →"
+    url: "https://www.coinepay.net/register?referrer=RFGSSDZ9"
+
+contact:
+  title: "Kart çıkarma desteği"
+  body: "İlk kart çıkarma, ulaşmayan yükleme, ödemeyi reddeden platform —— nerede takıldıysanız doğrudan sorun."
+  links:
+    - icon: "✈"
+      label: "Telegram"
+      url: "https://t.me/coinepayqi"
+    - icon: "💬"
+      label: "WhatsApp"
+      url: "https://wa.me/message/2I3GXEELDVMHP1"
+    - icon: "🎧"
+      label: "Canlı destek"
+      url: "https://chat.ssrchat.com/service/grpect"
+    - icon: "💳"
+      label: "Platforma git"
+      url: "https://www.coinepay.net/register?referrer=RFGSSDZ9"
+      primary: true
+
+energy:
+  icon: "⚡"
+  title: "Bu arada: USDT transferleri de daha ucuza gelebilir"
+  points:
+    - "Karta USDT-TRC20 ile yükleme yaparken enerji yetersizse fazladan <b>13–27 TRX</b> yanar; ne kadar sık transfer ederseniz kayıp o kadar artar."
+    - "Transferden önce enerji kiralarsanız işlem başına maliyet yaklaşık <b>1,5–1,7 TRX</b>’e iner."
+    - "Kayıt gerekmez: TRX’i platform adresine gönderin, enerji gönderen adresinize devredilsin."
+  cta:
+    label: "Enerji kirala"
+    url: "https://login.trxapi.io/energy"
