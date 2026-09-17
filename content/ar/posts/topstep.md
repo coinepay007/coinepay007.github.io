@@ -1,6 +1,7 @@
 ---
 title: "دليل الدفع في Topstep: الرسوم وطرق الدفع وإدارة الحساب"
 slug: topstep
+translationKey: topstep
 date: 2026-09-16
 draft: false
 ---

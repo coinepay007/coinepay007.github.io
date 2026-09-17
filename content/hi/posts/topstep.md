@@ -1,6 +1,7 @@
 ---
 title: "Topstep भुगतान गाइड: शुल्क, भुगतान विधियां और अकाउंट मैनेजमेंट"
 slug: topstep
+translationKey: topstep
 date: 2026-09-16
 draft: false
 ---

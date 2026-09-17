@@ -2,6 +2,7 @@
 title: "Hướng dẫn thanh toán Topstep: Chi phí, phương thức thanh toán và quản lý
   tài khoản"
 slug: topstep
+translationKey: topstep
 date: 2026-09-16
 draft: false
 ---

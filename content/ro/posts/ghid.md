@@ -1,6 +1,7 @@
 ---
 title: "Ghid de plată Topstep: taxe, metode de plată și gestionarea contului"
 slug: ghid
+translationKey: topstep
 date: 2026-09-16
 draft: false
 ---

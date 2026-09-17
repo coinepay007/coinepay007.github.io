@@ -1,6 +1,7 @@
 ---
 title: "คู่มือการชำระเงิน Topstep: ค่าธรรมเนียม วิธีชำระเงิน และการจัดการบัญชี"
 slug: topstep
+translationKey: topstep
 date: 2026-09-16
 draft: false
 ---

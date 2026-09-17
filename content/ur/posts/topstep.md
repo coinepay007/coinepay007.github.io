@@ -1,6 +1,7 @@
 ---
 title: "Topstep ادائیگی گائیڈ: فیس، ادائیگی کے طریقے اور اکاؤنٹ مینجمنٹ"
 slug: topstep
+translationKey: topstep
 date: 2026-09-16
 draft: false
 ---

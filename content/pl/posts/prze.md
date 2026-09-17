@@ -2,6 +2,7 @@
 title: "Przewodnik po płatnościach Topstep: opłaty, metody płatności i
   zarządzanie kontem"
 slug: prze
+translationKey: topstep
 date: 2026-09-16
 draft: false
 ---

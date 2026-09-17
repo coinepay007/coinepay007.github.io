@@ -1,6 +1,7 @@
 ---
 title: Topstep支払いガイド：料金・支払い方法・アカウント管理
 slug: topstep
+translationKey: topstep
 date: 2026-09-16
 draft: false
 ---

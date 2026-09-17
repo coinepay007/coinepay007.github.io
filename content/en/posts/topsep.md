@@ -1,6 +1,7 @@
 ---
 title: "Topstep Payment Guide: Fees, Payment Methods & Account Management"
 slug: topsep
+translationKey: topstep
 date: 2026-09-16
 draft: false
 ---

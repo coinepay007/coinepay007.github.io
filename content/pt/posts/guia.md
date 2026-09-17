@@ -1,6 +1,7 @@
 ---
 title: "Guia de pagamento Topstep: taxas, métodos de pagamento e gestão de conta"
 slug: guia
+translationKey: topstep
 date: 2026-09-16
 draft: false
 ---

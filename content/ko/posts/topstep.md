@@ -1,6 +1,7 @@
 ---
 title: "Topstep 결제 가이드: 비용, 결제 방법 및 계정 관리"
 slug: topstep
+translationKey: topstep
 date: 2026-09-16
 draft: false
 ---

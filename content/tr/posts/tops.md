@@ -1,6 +1,7 @@
 ---
 title: "Topstep Ödeme Rehberi: Ücretler, Ödeme Yöntemleri ve Hesap Yönetimi"
 slug: tops
+translationKey: topstep
 date: 2026-09-16
 draft: false
 ---
