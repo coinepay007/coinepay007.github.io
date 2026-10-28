@@ -14,7 +14,7 @@ Si vous recherchez des outils de paiement en ligne pour les services numériques
 
 Découvrez des outils de paiement en ligne et des solutions de gestion des paiements numériques.
 
-👉 **Accéder à CoinePay :** [https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+👉 **Accéder à CoinePay :** [https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 ## ⚡ Plateforme TRXAPI
 
@@ -160,7 +160,7 @@ Avant d’utiliser une carte virtuelle, vérifiez les points suivants :
 
 Si vous recherchez des solutions de paiement en ligne, vous pouvez consulter CoinePay ici :
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 Avant d’utiliser ce service, vérifiez ses conditions, ses frais, les régions prises en charge et la disponibilité des cartes. Ne partez pas du principe qu’une carte donnée sera acceptée par Google Gemini.
 
@@ -228,7 +228,7 @@ Commencez par vérifier la disponibilité de l’offre, examiner votre profil de
 
 Si vous recherchez des outils de paiement en ligne, vous pouvez consulter CoinePay pour en savoir plus :
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 Pour découvrir les services de location d’énergie TRON, visitez TRXAPI :
 
