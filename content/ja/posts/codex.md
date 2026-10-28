@@ -12,7 +12,7 @@ OpenAI Codexが起動しない、ログインできない、コマンドが実�
 
 プロジェクト作業とあわせてオンライン決済ツールについても調べたい場合は、CoinePayのサービスをこちらから確認できます。
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 ## OpenAI Codexでよく発生する問題
 
@@ -279,7 +279,7 @@ OpenAI Codexの問題の多くは、インストール、ログイン、ネッ�
 
 独立したオンライン決済サービスについて詳しく知りたい場合は、CoinePayをご覧ください。
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 TRXAPIのエネルギーレンタルサービスについては、以下をご確認ください。
 
