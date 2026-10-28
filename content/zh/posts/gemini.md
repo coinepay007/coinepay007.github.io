@@ -15,7 +15,7 @@ Google Gemini 是 Google 推出的 AI 助手，可以帮助用户撰写文章、
 在线订阅 AI 服务时，支付方式可能会影响交易是否成功。如果你正在了解不同的在线支付工具，可以访问 CoinePay 平台，查看相关服务及使用条件。
 
 👉 **访问 CoinePay 虚拟卡平台：**  
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 请在使用任何支付工具前，确认其支持你的所在地区、目标商户及相关交易类型。实际付款是否成功，仍取决于平台规则和发卡机构的审核。
 
@@ -281,7 +281,7 @@ Google Gemini 订阅失败，通常需要从付款方式、银行卡状态、账
 如果你正在了解在线支付工具，可以访问 CoinePay 平台，查看相关服务信息及使用条件。
 
 👉 **访问 CoinePay：**  
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 请在使用前自行确认该服务是否适用于你的交易场景，以及相关费用和使用规则。
 
