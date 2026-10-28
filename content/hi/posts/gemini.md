@@ -14,7 +14,7 @@ Google Gemini का पेड सब्सक्रिप्शन लेते
 
 👉 **CoinePay प्लेटफ़ॉर्म पर जाएँ**
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 ## ⚡ TRXAPI प्लेटफ़ॉर्म
 
@@ -199,6 +199,6 @@ Google Gemini का सब्सक्रिप्शन भुगतान व
 
 ऑनलाइन भुगतान विकल्पों के बारे में अधिक जानकारी के लिए:
 
-CoinePay: [https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+CoinePay: [https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 TRXAPI: [https://login.trxapi.io/energy](https://login.trxapi.io/energy)
