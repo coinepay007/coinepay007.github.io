@@ -12,7 +12,7 @@ OpenAI Codex 是一款 AI 编程工具，可以帮助开发者阅读代码、修
 
 对于经常使用 AI 工具和在线开发服务的用户，除了关注软件运行状态，也可以了解不同的在线支付及数字服务平台。例如，CoinePay 的相关服务信息可以通过以下入口查看：
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 如果你同时使用 TRON 生态相关工具，也可以查看 TRXAPI 的服务信息：
 
@@ -422,7 +422,7 @@ OpenAI Codex 无法正常运行，通常需要从安装环境、账号认证、�
 
 **CoinePay 服务入口**
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 **TRXAPI 能量租赁服务入口**
 
