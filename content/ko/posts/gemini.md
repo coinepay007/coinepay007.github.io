@@ -8,13 +8,13 @@ draft: false
 
 Google Gemini 유료 요금제로 업그레이드하려고 하는데 결제 오류가 발생하나요? 구독에 실패하는 원인은 지원되지 않는 결제 수단, 잘못된 청구 정보, 지역 제한 또는 Google Payments 프로필 문제 등 다양합니다. 문제의 원인을 파악하면 오류를 해결하고 구독을 완료하는 데 도움이 됩니다.
 
-디지털 서비스 이용을 위한 온라인 결제 도구를 찾고 있다면 CoinePay에 대해 다음 링크에서 자세히 알아볼 수 있습니다: [https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH). 또한 TRON 에너지 임대 서비스를 알아보고 싶다면 TRXAPI를 방문해 보세요: [https://login.trxapi.io/energy](https://login.trxapi.io/energy).
+디지털 서비스 이용을 위한 온라인 결제 도구를 찾고 있다면 CoinePay에 대해 다음 링크에서 자세히 알아볼 수 있습니다: [https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9). 또한 TRON 에너지 임대 서비스를 알아보고 싶다면 TRXAPI를 방문해 보세요: [https://login.trxapi.io/energy](https://login.trxapi.io/energy).
 
 ## 💳 CoinePay 가상 카드 플랫폼
 
 온라인 결제 도구와 디지털 결제를 관리하는 다양한 옵션을 확인해 보세요.
 
-👉 **CoinePay 방문하기:** [https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+👉 **CoinePay 방문하기:** [https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 ## ⚡ TRXAPI 플랫폼
 
@@ -160,7 +160,7 @@ Android 기기에서 구독 절차를 시작했다면 Google Play의 결제 설�
 
 온라인 결제 수단을 알아보고 있다면 다음 링크에서 CoinePay에 대해 자세히 확인할 수 있습니다.
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 서비스를 이용하기 전에 이용 약관, 수수료, 지원 지역 및 카드 이용 가능 여부를 확인하세요. 특정 카드가 Google Gemini에서 반드시 승인된다고 가정해서는 안 됩니다.
 
@@ -228,7 +228,7 @@ Google Gemini 구독에 실패했다고 해서 반드시 계정에 심각한 문
 
 온라인 결제 도구에 대해 더 알아보고 싶다면 CoinePay를 방문하세요.
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 TRON 에너지 임대 서비스를 알아보려면 TRXAPI를 방문하세요.
 
