@@ -14,7 +14,7 @@ draft: false
 
 👉 **زيارة منصة CoinePay**
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 ## ⚡ منصة TRXAPI
 
@@ -143,7 +143,7 @@ draft: false
 
 👉 **استكشف منصة CoinePay**
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 وللتعرف على خدمات تأجير الطاقة لدى TRXAPI:
 
@@ -199,6 +199,6 @@ draft: false
 
 لمعرفة المزيد عن خيارات الدفع عبر الإنترنت:
 
-CoinePay: [https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+CoinePay: [https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 TRXAPI: [https://login.trxapi.io/energy](https://login.trxapi.io/energy)
