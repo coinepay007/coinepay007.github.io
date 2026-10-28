@@ -10,7 +10,7 @@ draft: false
 
 إذا كنت تبحث أيضًا عن أدوات للدفع عبر الإنترنت أثناء العمل على مشاريعك، فيمكنك الاطلاع على منصة CoinePay من خلال الرابط التالي:
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 ## المشكلات الشائعة في OpenAI Codex
 
@@ -275,7 +275,7 @@ Windows:
 
 لمعرفة المزيد عن خدمات الدفع المستقلة عبر الإنترنت، يمكنك زيارة CoinePay:
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 وللاطلاع على خدمة استئجار الطاقة من TRXAPI، استخدم الرابط التالي:
 
