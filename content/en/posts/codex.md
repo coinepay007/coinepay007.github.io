@@ -12,7 +12,7 @@ This guide explains how to troubleshoot common OpenAI Codex issues and get back 
 
 If you also use online payment services or blockchain-related tools, you can explore CoinePay and TRXAPI through their respective service links:
 
-CoinePay: [https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+CoinePay: [https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 TRXAPI: [https://login.trxapi.io/energy](https://login.trxapi.io/energy)
 
@@ -257,7 +257,7 @@ Change one setting at a time whenever possible. This makes it easier to identify
 
 For developers who also use other online services, remember to verify each service independently. CoinePay provides information about its services here:
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 TRXAPI service information is available here:
 
