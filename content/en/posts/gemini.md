@@ -8,13 +8,13 @@ draft: false
 
 Trying to upgrade to a paid Google Gemini plan but running into payment errors? A failed subscription can be caused by an unsupported payment method, incorrect billing information, regional restrictions, or a problem with your Google Payments profile. Understanding the cause can help you resolve the issue and complete your subscription.
 
-If you are exploring online payment tools for digital services, you can learn more about CoinePay here: [https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH). You can also visit TRXAPI to learn about its TRON energy leasing services: [https://login.trxapi.io/energy](https://login.trxapi.io/energy).
+If you are exploring online payment tools for digital services, you can learn more about CoinePay here: [https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9). You can also visit TRXAPI to learn about its TRON energy leasing services: [https://login.trxapi.io/energy](https://login.trxapi.io/energy).
 
 ## 💳 CoinePay Virtual Card Platform
 
 Explore online payment tools and payment management options.
 
-👉 **Visit CoinePay:** [https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+👉 **Visit CoinePay:** [https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 ## ⚡ TRXAPI Platform
 
@@ -160,7 +160,7 @@ Before using any virtual card, check the following:
 
 If you are researching online payment options, you can learn more about CoinePay here:
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 Review the provider's terms, fees, supported regions, and card availability before deciding whether it meets your needs. Do not assume that any particular card will be accepted by Google Gemini.
 
@@ -228,7 +228,7 @@ Start by checking plan availability, reviewing your billing profile, and confirm
 
 If you are exploring online payment tools, you can visit CoinePay for more information:
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 For information about TRON energy leasing services, visit TRXAPI:
 
