@@ -8,13 +8,13 @@ draft: false
 
 Google Gemini'nin ücretli bir planına geçmeye çalışıyor ancak ödeme sırasında hatalarla mı karşılaşıyorsunuz? Abonelik işleminin başarısız olması; desteklenmeyen bir ödeme yöntemi, yanlış fatura bilgileri, bölgesel kısıtlamalar veya Google Payments profilinizdeki sorunlardan kaynaklanabilir. Sorunun nedenini belirlemek, problemi çözmenize ve aboneliğinizi tamamlamanıza yardımcı olabilir.
 
-Dijital hizmetler için çevrimiçi ödeme araçları arıyorsanız CoinePay hakkında şu adresten daha fazla bilgi edinebilirsiniz: [https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH). TRON enerji kiralama hizmetlerini incelemek için TRXAPI platformunu da ziyaret edebilirsiniz: [https://login.trxapi.io/energy](https://login.trxapi.io/energy).
+Dijital hizmetler için çevrimiçi ödeme araçları arıyorsanız CoinePay hakkında şu adresten daha fazla bilgi edinebilirsiniz: [https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9). TRON enerji kiralama hizmetlerini incelemek için TRXAPI platformunu da ziyaret edebilirsiniz: [https://login.trxapi.io/energy](https://login.trxapi.io/energy).
 
 ## 💳 CoinePay Sanal Kart Platformu
 
 Çevrimiçi ödeme araçlarını ve dijital ödemelerinizi yönetmeye yönelik seçenekleri keşfedin.
 
-👉 **CoinePay'i ziyaret edin:** [https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+👉 **CoinePay'i ziyaret edin:** [https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 ## ⚡ TRXAPI Platformu
 
@@ -160,7 +160,7 @@ Sanal kart kullanmadan önce şu noktaları kontrol edin:
 
 Çevrimiçi ödeme seçeneklerini araştırıyorsanız CoinePay hakkında şu adresten bilgi edinebilirsiniz:
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 Hizmeti kullanmadan önce koşulları, ücretleri, desteklenen bölgeleri ve kartların kullanılabilirliğini inceleyin. Belirli bir kartın Google Gemini tarafından mutlaka kabul edileceğini varsaymayın.
 
@@ -228,7 +228,7 @@ Google Gemini aboneliğinin başarısız olması, hesabınızda mutlaka ciddi bi
 
 Çevrimiçi ödeme araçları hakkında daha fazla bilgi edinmek için CoinePay'i ziyaret edebilirsiniz:
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 TRON enerji kiralama hizmetlerini incelemek için TRXAPI'yi ziyaret edin:
 
