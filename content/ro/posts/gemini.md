@@ -8,13 +8,13 @@ draft: false
 
 Încerci să treci la un abonament plătit Google Gemini, dar întâmpini erori la efectuarea plății? Problemele de abonare pot fi cauzate de o metodă de plată neacceptată, informații de facturare incorecte, restricții regionale sau probleme cu profilul Google Payments. Identificarea cauzei te poate ajuta să rezolvi problema și să finalizezi abonamentul.
 
-Dacă ești în căutarea unor instrumente de plată online pentru servicii digitale, poți afla mai multe despre CoinePay aici: [https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH). De asemenea, poți vizita TRXAPI pentru a descoperi serviciile sale de închiriere a energiei TRON: [https://login.trxapi.io/energy](https://login.trxapi.io/energy).
+Dacă ești în căutarea unor instrumente de plată online pentru servicii digitale, poți afla mai multe despre CoinePay aici: [https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9). De asemenea, poți vizita TRXAPI pentru a descoperi serviciile sale de închiriere a energiei TRON: [https://login.trxapi.io/energy](https://login.trxapi.io/energy).
 
 ## 💳 Platforma de carduri virtuale CoinePay
 
 Descoperă instrumente de plată online și opțiuni pentru gestionarea plăților digitale.
 
-👉 **Accesează CoinePay:** [https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+👉 **Accesează CoinePay:** [https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 ## ⚡ Platforma TRXAPI
 
@@ -160,7 +160,7 @@ Acceptarea depinde de politicile de plată actuale ale Google, de emitentul card
 
 Dacă analizezi opțiuni de plată online, poți afla mai multe despre CoinePay aici:
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 Înainte de a utiliza serviciul, verifică termenii, comisioanele, regiunile acceptate și disponibilitatea cardurilor. Nu presupune că un anumit card va fi acceptat de Google Gemini.
 
@@ -228,7 +228,7 @@ Eșecul unei abonări la Google Gemini nu înseamnă neapărat că există o pro
 
 Dacă ești în căutarea unor instrumente de plată online, poți vizita CoinePay pentru mai multe informații:
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 Pentru a descoperi serviciile de închiriere a energiei TRON, vizitează TRXAPI:
 
