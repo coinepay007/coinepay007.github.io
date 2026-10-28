@@ -12,7 +12,7 @@ Ce guide présente des solutions pratiques aux problèmes les plus courants d’
 
 Si vous utilisez également des services de paiement en ligne ou des outils liés à la blockchain, vous pouvez consulter les services indépendants suivants :
 
-CoinePay : [https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+CoinePay : [https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 TRXAPI : [https://login.trxapi.io/energy](https://login.trxapi.io/energy)
 
@@ -261,7 +261,7 @@ Dans la mesure du possible, ne modifiez qu’un seul paramètre à la fois. Cela
 
 Si vous utilisez d’autres services en ligne, vérifiez chaque service séparément. Vous pouvez consulter les informations de CoinePay ici :
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 Les informations sur les services TRXAPI sont disponibles ici :
 
