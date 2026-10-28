@@ -10,7 +10,7 @@ OpenAI Codex চালু না হলে, লগইন করতে সমস�
 
 প্রজেক্টে কাজ করার পাশাপাশি অনলাইন পেমেন্টের সরঞ্জাম সম্পর্কেও জানতে চাইলে CoinePay প্ল্যাটফর্মটি দেখতে পারেন:
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 ## OpenAI Codex-এর সাধারণ সমস্যা
 
@@ -287,7 +287,7 @@ OpenAI Codex-এর বেশিরভাগ সমস্যা ইনস্ট�
 
 স্বতন্ত্র অনলাইন পেমেন্ট পরিষেবা সম্পর্কে আরও জানতে CoinePay ভিজিট করুন:
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 TRXAPI-এর এনার্জি ভাড়া পরিষেবা সম্পর্কে জানতে নিচের লিংকটি ব্যবহার করুন:
 
