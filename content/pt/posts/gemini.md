@@ -8,13 +8,13 @@ draft: false
 
 Está tentando fazer upgrade para um plano pago do Google Gemini, mas está encontrando erros ao efetuar o pagamento? Uma assinatura pode falhar por vários motivos, como método de pagamento não aceito, informações de faturamento incorretas, restrições regionais ou problemas no perfil do Google Payments. Identificar a causa pode ajudar você a resolver o problema e concluir a assinatura.
 
-Se você está procurando ferramentas de pagamento online para serviços digitais, pode conhecer melhor a CoinePay neste endereço: [https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH). Você também pode visitar a TRXAPI para conhecer seus serviços de aluguel de energia TRON: [https://login.trxapi.io/energy](https://login.trxapi.io/energy).
+Se você está procurando ferramentas de pagamento online para serviços digitais, pode conhecer melhor a CoinePay neste endereço:[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9) Você também pode visitar a TRXAPI para conhecer seus serviços de aluguel de energia TRON: [https://login.trxapi.io/energy](https://login.trxapi.io/energy).
 
 ## 💳 Plataforma de Cartões Virtuais CoinePay
 
 Conheça ferramentas de pagamento online e opções para gerenciar pagamentos digitais.
 
-👉 **Acesse a CoinePay:** [https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+👉 **Acesse a CoinePay:** [https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 ## ⚡ Plataforma TRXAPI
 
@@ -160,7 +160,7 @@ Antes de utilizar um cartão virtual, verifique os seguintes pontos:
 
 Se você está pesquisando opções de pagamento online, pode conhecer melhor a CoinePay neste endereço:
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 Antes de utilizar o serviço, confira os termos, as taxas, as regiões atendidas e a disponibilidade dos cartões. Não presuma que um cartão específico será aceito pelo Google Gemini.
 
@@ -228,7 +228,7 @@ Comece verificando a disponibilidade do plano, revisando seu perfil de faturamen
 
 Se você está procurando ferramentas de pagamento online, pode acessar a CoinePay para obter mais informações:
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 Para conhecer os serviços de aluguel de energia TRON, visite a TRXAPI:
 
