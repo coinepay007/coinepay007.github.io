@@ -9,7 +9,7 @@ draft: false
 Jeśli OpenAI Codex nie uruchamia się, nie może się zalogować, nie wykonuje poleceń lub nie potrafi modyfikować plików projektu, przyczyna może być związana z konfiguracją, uprawnieniami, połączeniem sieciowym lub środowiskiem programistycznym. W tym przewodniku znajdziesz praktyczne sposoby diagnozowania i rozwiązywania najczęstszych problemów z Codex.
 
 Jeśli podczas pracy nad projektami potrzebujesz również narzędzi do płatności online, możesz zapoznać się z platformą CoinePay:  
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 ## Najczęstsze problemy z OpenAI Codex
 
@@ -269,7 +269,7 @@ Większość problemów z OpenAI Codex można zdiagnozować, sprawdzając instal
 Jeśli problem nadal występuje, przygotuj informacje o systemie operacyjnym, wersji Codex, poleceniu, które powoduje błąd, oraz odpowiednim fragmencie logów. Ułatwi to znalezienie przyczyny i dobranie rozwiązania.
 
 Aby dowiedzieć się więcej o niezależnych narzędziach do płatności online, odwiedź CoinePay:  
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 Informacje o wynajmie energii TRXAPI znajdziesz pod adresem:  
 [https://login.trxapi.io/energy](https://login.trxapi.io/energy)
