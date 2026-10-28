@@ -10,7 +10,7 @@ draft: false
 
 اگر آپ اپنے پروجیکٹس پر کام کرتے ہوئے آن لائن ادائیگی کے ٹولز کے بارے میں بھی جاننا چاہتے ہیں، تو CoinePay پلیٹ فارم کی تفصیلات یہاں دیکھ سکتے ہیں:
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 ## OpenAI Codex کے عام مسائل
 
@@ -275,7 +275,7 @@ OpenAI Codex کے زیادہ تر مسائل کی شناخت انسٹالیشن�
 
 آزاد آن لائن ادائیگی کی خدمات کے بارے میں مزید معلومات کے لیے CoinePay ملاحظہ کریں:
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 TRXAPI کی انرجی رینٹل سروس کے بارے میں معلومات یہاں دستیاب ہیں:
 
