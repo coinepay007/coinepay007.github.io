@@ -9,7 +9,7 @@ draft: false
 OpenAI Codex başlatılamıyorsa, oturum açma işlemi başarısız oluyorsa, komutlar çalışmıyorsa veya araç proje dosyalarını değiştiremiyorsa bunun nedeni yapılandırma, izinler, ağ bağlantısı ya da geliştirme ortamı olabilir. Bu rehberde, Codex kullanırken karşılaşabileceğiniz yaygın sorunları teşhis etmek ve çözmek için pratik yöntemleri bulabilirsiniz.
 
 Projeleriniz üzerinde çalışırken çevrim içi ödeme araçlarına da ihtiyaç duyuyorsanız CoinePay platformu hakkında daha fazla bilgi edinebilirsiniz:  
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 ## OpenAI Codex ile İlgili Yaygın Sorunlar
 
@@ -269,7 +269,7 @@ OpenAI Codex ile yaşanan sorunların çoğu kurulum, oturum açma, ağ bağlant
 Sorun devam ederse işletim sisteminiz, Codex sürümünüz, hataya neden olan komut ve ilgili günlük kayıtları hakkında bilgi hazırlayın. Bu bilgiler sorunun kaynağını bulmayı ve uygun çözümü belirlemeyi kolaylaştırır.
 
 Bağımsız çevrim içi ödeme araçları hakkında daha fazla bilgi edinmek için CoinePay platformunu ziyaret edebilirsiniz:  
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 TRXAPI enerji kiralama hizmeti hakkında bilgi almak için:  
 [https://login.trxapi.io/energy](https://login.trxapi.io/energy)
