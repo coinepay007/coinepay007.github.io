@@ -8,13 +8,13 @@ draft: false
 
 Google Geminiの有料プランにアップグレードしようとして、支払いエラーが発生していませんか？ サブスクリプションの登録に失敗する原因として、対応していない支払い方法、請求先情報の誤り、地域による制限、Google Paymentsのプロフィールに関する問題などが考えられます。原因を特定することで、問題を解決し、登録を完了できる可能性があります。
 
-デジタルサービス向けのオンライン決済ツールをお探しなら、CoinePayについてこちらから確認できます：[https://www.coinepay.net/login?referrer=7PFFZMCH。また、TRONのエネルギーレンタルサービスについて知りたい方は、TRXAPIもご覧ください：https://login.trxapi.io/energy](https://www.coinepay.net/login?referrer=7PFFZMCH。また、TRONのエネルギーレンタルサービスについて知りたい方は、TRXAPIもご覧ください：https://login.trxapi.io/energy)
+デジタルサービス向けのオンライン決済ツールをお探しなら、CoinePayについてこちらから確認できます：[https://www.coinepay.net/register?referrer=RFGSSDZ9。また、TRONのエネルギーレンタルサービスについて知りたい方は、TRXAPIもご覧ください：https://login.trxapi.io/energy](https://www.coinepay.net/login?referrer=7PFFZMCH。また、TRONのエネルギーレンタルサービスについて知りたい方は、TRXAPIもご覧ください：https://login.trxapi.io/energy)
 
 ## 💳 CoinePay バーチャルカードプラットフォーム
 
 オンライン決済ツールや、デジタル決済を管理するための選択肢を確認できます。
 
-👉 **CoinePayはこちら：** [https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+👉 **CoinePayはこちら：** [https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 ## ⚡ TRXAPI プラットフォーム
 
@@ -160,7 +160,7 @@ Android端末から申し込みを開始した場合は、Google Playの支払�
 
 オンライン決済の選択肢を調べている場合は、CoinePayについてこちらから確認できます。
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 利用する前に、利用規約、手数料、対応地域、カードの提供状況を確認してください。特定のカードがGoogle Geminiで必ず利用できると考えないようにしましょう。
 
@@ -228,7 +228,7 @@ Google Geminiのサブスクリプションに失敗しても、必ずしもア�
 
 オンライン決済ツールについて詳しく知りたい場合は、CoinePayをご覧ください。
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 TRONのエネルギーレンタルサービスについては、TRXAPIをご覧ください。
 
