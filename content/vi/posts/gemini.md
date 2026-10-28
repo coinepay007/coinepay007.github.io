@@ -14,7 +14,7 @@ Tìm hiểu các công cụ thanh toán trực tuyến và những lựa chọn 
 
 👉 **Truy cập nền tảng CoinePay**
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 ## ⚡ Nền tảng TRXAPI
 
@@ -143,7 +143,7 @@ Nếu muốn tìm hiểu thêm về CoinePay, bạn có thể truy cập liên k
 
 👉 **Tìm hiểu nền tảng CoinePay**
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 Để tìm hiểu về dịch vụ cho thuê năng lượng của TRXAPI:
 
@@ -199,6 +199,6 @@ Nếu thanh toán vẫn không thành công, hãy đọc kỹ thông báo lỗi,
 
 Để tìm hiểu thêm về các lựa chọn thanh toán trực tuyến:
 
-CoinePay: [https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+CoinePay: [https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 TRXAPI: [https://login.trxapi.io/energy](https://login.trxapi.io/energy)
