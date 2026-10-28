@@ -14,7 +14,7 @@ Google Gemini-এর পেইড সাবস্ক্রিপশন নিত
 
 👉 **CoinePay প্ল্যাটফর্মে প্রবেশ করুন**
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 ## ⚡ TRXAPI প্ল্যাটফর্ম
 
@@ -143,7 +143,7 @@ CoinePay সম্পর্কে আরও জানতে নিচের ল�
 
 👉 **CoinePay প্ল্যাটফর্ম দেখুন**
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 TRXAPI-এর শক্তি লিজিং পরিষেবা সম্পর্কে জানতে:
 
@@ -199,6 +199,6 @@ Google Gemini সাবস্ক্রিপশনের পেমেন্ট �
 
 অনলাইন পেমেন্টের বিকল্প সম্পর্কে আরও জানতে:
 
-CoinePay: [https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+CoinePay: [https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 TRXAPI: [https://login.trxapi.io/energy](https://login.trxapi.io/energy)
