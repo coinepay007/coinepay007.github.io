@@ -17,7 +17,7 @@ Comprender por qué TikTok Ads rechaza los anuncios puede ayudarte a identificar
 Si gestionas habitualmente pagos internacionales relacionados con la publicidad, también puedes explorar diferentes soluciones de pago online. CoinePay ofrece servicios de tarjetas virtuales que pueden resultar interesantes para quienes buscan opciones de pago para servicios digitales.
 
 Plataforma oficial de CoinePay:  
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+👉 ++[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)++
 
 ## 1. Razones comunes por las que TikTok Ads rechaza los anuncios
 
@@ -398,7 +398,7 @@ Si tu anuncio ya ha superado la revisión, comprueba el estado de la cuenta, el 
 Para los anunciantes que necesitan soluciones de pago online, CoinePay ofrece servicios de tarjetas virtuales que pueden resultar interesantes.
 
 CoinePay:  
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+👉 ++[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)++
 
 Antes de utilizar una tarjeta virtual para pagar publicidad, confirma que admite el tipo de transacción correspondiente y que TikTok acepta ese método de pago en tu región. La compatibilidad no está garantizada.
 
