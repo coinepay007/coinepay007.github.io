@@ -10,7 +10,7 @@ draft: false
 
 للتعرّف على خدمات الدفع الإلكتروني وإدارة المدفوعات، يمكنك زيارة الموقع الرسمي لمنصة CoinePay:
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+👉 ++[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)++
 
 في هذا الدليل، سنشرح بالتفصيل الأسباب الشائعة لرفض إعلانات TikTok Ads، وكيفية معرفة سبب الرفض، وطريقة إصلاح الإعلانات، بالإضافة إلى خطوات تقديم طلب الاستئناف.
 
@@ -254,7 +254,7 @@ Best regards,
 
 للتعرف على خدمات إدارة المدفوعات عبر الإنترنت، يمكنك الاطلاع على خدمات CoinePay:
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+👉 ++[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)++
 
 وإذا كنت ترغب في معرفة المزيد عن خدمة استئجار الطاقة لتحويل USDT عبر شبكة TRON، يمكنك زيارة الصفحة الرسمية لمنصة TRXAPI:
 
@@ -305,7 +305,7 @@ Best regards,
 
 لمعرفة المزيد عن خدمات إدارة الإعلانات والمدفوعات عبر الإنترنت:
 
-CoinePay: [https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+CoinePay: 👉 ++[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)++
 
 TRXAPI: [https://www.trxapi.io/energy.html?lang=zh-TW](https://www.trxapi.io/energy.html?lang=zh-TW)
 
