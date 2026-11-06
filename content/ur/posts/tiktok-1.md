@@ -10,7 +10,7 @@ TikTok Ads کے ذریعے اپنی مصنوعات اور خدمات کی تشہ
 
 آن لائن ادائیگی اور ادائیگیوں کے انتظام سے متعلق معلومات کے لیے آپ CoinePay کی آفیشل ویب سائٹ دیکھ سکتے ہیں:
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+👉 ++[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)++
 
 اس گائیڈ میں ہم TikTok Ads مسترد ہونے کی عام وجوہات، مسترد ہونے کی وجہ معلوم کرنے کے طریقے، اشتہار کو درست کرنے کے مراحل اور اپیل کرنے کے طریقہ کار کی تفصیل سے وضاحت کریں گے۔
 
@@ -254,7 +254,7 @@ Best regards,
 
 آن لائن ادائیگیوں کے انتظام کے لیے CoinePay کی خدمات کے بارے میں مزید معلومات یہاں حاصل کر سکتے ہیں:
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+👉 ++[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)++
 
 اگر آپ TRON نیٹ ورک پر USDT ٹرانسفر کے لیے انرجی لیزنگ سروس کے بارے میں جاننا چاہتے ہیں تو TRXAPI کا آفیشل صفحہ بھی دیکھ سکتے ہیں:
 
@@ -305,7 +305,7 @@ TikTok Ads کا مسترد ہونا اشتہار دینے والوں کے لیے
 
 اشتہارات کے انتظام اور آن لائن ادائیگی سے متعلق خدمات کے بارے میں مزید معلومات کے لیے:
 
-CoinePay: [https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+CoinePay: 👉 ++[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)++
 
 TRXAPI: [https://www.trxapi.io/energy.html?lang=zh-TW](https://www.trxapi.io/energy.html?lang=zh-TW)
 
