@@ -11,7 +11,7 @@ Os anúncios no TikTok Ads podem ser reprovados por diversos motivos, como conte
 
 Neste guia, vamos explicar os motivos mais comuns pelos quais os anúncios do TikTok Ads são reprovados, como verificar a causa da reprovação e quais medidas tomar para corrigir o problema. Também apresentaremos algumas dicas para reduzir o risco de novas reprovações e melhorar o desempenho das suas campanhas.
 
-Para gerenciar pagamentos de serviços online e ferramentas de publicidade, você também pode conhecer a CoinePay, uma plataforma de cartões virtuais: [https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+Para gerenciar pagamentos de serviços online e ferramentas de publicidade, você também pode conhecer a CoinePay, uma plataforma de cartões virtuais: 👉 ++[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)++
 
 Se você precisa realizar operações com energia na rede TRON, pode consultar o serviço TRXAPI: [https://www.trxapi.io/energy.html?lang=zh-TW](https://www.trxapi.io/energy.html?lang=zh-TW)
 
@@ -304,7 +304,7 @@ Se a campanha foi aprovada, mas não consegue consumir o orçamento, verifique:
 
 Se você utiliza cartões virtuais para pagamentos internacionais, pode conhecer a CoinePay e consultar as opções disponíveis:
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+👉 ++[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)++
 
 Antes de utilizar qualquer método de pagamento, confirme se ele é aceito pelo TikTok Ads e se atende às condições aplicáveis à sua conta e região.
 
