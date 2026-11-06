@@ -12,7 +12,7 @@ TikTok Adsの広告は、広告ポリシーへの違反、誤解を招く表現�
 
 オンラインサービスや広告関連ツールの支払い方法を検討している方は、バーチャルカードを提供するCoinePayも確認できます。
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+👉 ++[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)++
 
 TRONネットワークのエネルギーに関するサービスを利用したい場合は、TRXAPIもご覧ください。
 
@@ -307,7 +307,7 @@ Best regards,
 
 海外決済にバーチャルカードを利用している場合は、CoinePayで利用可能なサービスを確認できます。
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+👉 ++[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)++
 
 支払い方法を利用する前に、TikTok Adsで受け付けられる方法であること、また自分のアカウントと地域に適用される条件を満たしていることを確認してください。
 
