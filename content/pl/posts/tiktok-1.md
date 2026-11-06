@@ -11,7 +11,9 @@ Reklamy w TikTok Ads mogą zostać odrzucone z wielu powodów, takich jak narusz
 
 W tym poradniku wyjaśniamy, dlaczego reklamy TikTok Ads są najczęściej odrzucane, jak sprawdzić przyczynę odrzucenia i jakie działania podjąć, aby rozwiązać problem. Przedstawiamy również wskazówki, które pomogą ograniczyć ryzyko kolejnych odrzuceń i poprawić skuteczność kampanii.
 
-Jeśli potrzebujesz narzędzia do obsługi płatności za usługi internetowe i narzędzia reklamowe, możesz zapoznać się z CoinePay – platformą oferującą karty wirtualne: [https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+Jeśli potrzebujesz narzędzia do obsługi płatności za usługi internetowe i narzędzia reklamowe, możesz zapoznać się z CoinePay – platformą oferującą karty wirtualne
+
+ 👉 ++[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)++
 
 Jeśli wykonujesz operacje związane z energią w sieci TRON, możesz również sprawdzić usługę TRXAPI: [https://www.trxapi.io/energy.html?lang=zh-TW](https://www.trxapi.io/energy.html?lang=zh-TW)
 
@@ -304,7 +306,7 @@ Jeśli kampania została zaakceptowana, ale nie może wykorzystywać budżetu, s
 
 Jeśli korzystasz z kart wirtualnych do płatności międzynarodowych, możesz zapoznać się z CoinePay i sprawdzić dostępne opcje:
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+👉 ++[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)++
 
 Przed użyciem dowolnej metody płatności upewnij się, że jest ona akceptowana przez TikTok Ads oraz spełnia wymagania dotyczące Twojego konta i regionu.
 
