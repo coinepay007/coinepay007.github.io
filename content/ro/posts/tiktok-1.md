@@ -11,7 +11,9 @@ Reclamele din TikTok Ads pot fi respinse din mai multe motive, precum încălcar
 
 În acest ghid, vom explica cele mai frecvente motive pentru care reclamele TikTok Ads sunt respinse, cum poți verifica motivul respingerii și ce măsuri poți lua pentru a rezolva problema. De asemenea, vei găsi recomandări pentru a reduce riscul unor respingeri viitoare și pentru a îmbunătăți performanța campaniilor.
 
-Dacă ai nevoie de o soluție pentru gestionarea plăților către servicii online și instrumente publicitare, poți afla mai multe despre CoinePay, o platformă care oferă carduri virtuale: [https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+Dacă ai nevoie de o soluție pentru gestionarea plăților către servicii online și instrumente publicitare, poți afla mai multe despre CoinePay, o platformă care oferă carduri virtuale
+
+👉 ++[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)++
 
 Dacă efectuezi operațiuni legate de energia rețelei TRON, poți consulta și serviciul TRXAPI: [https://www.trxapi.io/energy.html?lang=zh-TW](https://www.trxapi.io/energy.html?lang=zh-TW)
 
@@ -304,7 +306,7 @@ Dacă o campanie a fost aprobată, dar nu poate utiliza bugetul, verifică:
 
 Dacă utilizezi carduri virtuale pentru plăți internaționale, poți consulta CoinePay și opțiunile disponibile:
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+👉 ++[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)++
 
 Înainte de a utiliza orice metodă de plată, verifică dacă aceasta este acceptată de TikTok Ads și dacă respectă condițiile aplicabile contului și regiunii tale.
 
