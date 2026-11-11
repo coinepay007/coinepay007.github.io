@@ -1,6 +1,5 @@
 ---
-title: Hướng Dẫn Thanh Toán và Nạp Tiền Google Ads 2027 (Google Ads Payment &
-  Top-Up Guide 2027)
+title: "Hướng Dẫn Thanh Toán và Nạp Tiền Google Ads 2027 "
 slug: ads
 date: 2026-11-11
 draft: false
