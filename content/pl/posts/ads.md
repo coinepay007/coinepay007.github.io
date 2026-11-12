@@ -20,7 +20,7 @@ Jeśli korzystasz również z zagranicznych usług wymagających płatności onl
 
 **Platforma kart wirtualnych CoinePay:**
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 ## 1. Jak działają płatności w Google Ads?
 
@@ -393,7 +393,7 @@ Przed użyciem karty w Google Ads sprawdź warunki jej wydania, opłaty, kraj em
 
 **Przejdź do CoinePay:**
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 Ważne: nie oznacza to gwarancji akceptacji karty przez Google Ads. Dostępność i zatwierdzenie metod płatności zależą od zasad Google oraz charakterystyki konkretnego konta.
 
@@ -515,7 +515,7 @@ Jeśli regularnie korzystasz z zagranicznych usług internetowych, możesz równ
 
 **Platforma kart wirtualnych CoinePay:**
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 Jeśli korzystasz również z usług związanych z siecią TRON, możesz poznać platformę TRXAPI, która oferuje między innymi wynajem energii TRON. Jest to usługa niezależna od płatności Google Ads.
 
@@ -523,7 +523,7 @@ Jeśli korzystasz również z usług związanych z siecią TRON, możesz poznać
 
 [https://www.trxapi.io/energy.html?lang=zh-TW](https://www.trxapi.io/energy.html?lang=zh-TW)
 
-**Kod zaproszenia TRXAPI: 57YQDGFU**
+**Kod zaproszenia TRXAPI:  RT9G2YGH**
 
 Dzięki odpowiednio skonfigurowanym płatnościom i regularnej kontroli wydatków łatwiej zapanujesz nad budżetem reklamowym, a więcej czasu będziesz mógł poświęcić na optymalizację kampanii i rozwój swojej działalności.
 
