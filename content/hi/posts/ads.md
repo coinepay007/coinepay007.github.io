@@ -14,7 +14,7 @@ Google Ads पर विज्ञापन चलाने के लिए भ�
 
 💳 **CoinePay वर्चुअल कार्ड प्लेटफॉर्म**
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 ## 1. Google Ads का भुगतान सिस्टम कैसे काम करता है?
 
@@ -199,7 +199,7 @@ Google Ads में भुगतान विफल होने के कई 
 
 💳 **CoinePay प्लेटफॉर्म देखें**
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 ## 8. Google Ads का विज्ञापन बजट कैसे मैनेज करें?
 
@@ -274,10 +274,10 @@ TRON नेटवर्क पर USDT आदि ट्रांसफर कर
 
 [https://www.trxapi.io/energy.html?lang=zh-TW](https://www.trxapi.io/energy.html?lang=zh-TW)
 
-आमंत्रण कोड: **57YQDGFU**
+आमंत्रण कोड: RT9G2YGH
 
 💳 **CoinePay वर्चुअल कार्ड प्लेटफॉर्म**
 
 अंतरराष्ट्रीय ऑनलाइन भुगतान सेवाओं के बारे में अधिक जानकारी के लिए:
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
