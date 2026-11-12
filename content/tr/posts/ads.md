@@ -14,7 +14,7 @@ Bu rehberde Google Ads ödeme sisteminin nasıl çalıştığını, banka kartı
 
 💳 **CoinePay Sanal Kart Platformu**
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 ## 1. Google Ads Ödeme Sistemi Nasıl Çalışır?
 
@@ -195,7 +195,7 @@ Platformun sunduğu kart özelliklerini, ücretlerini ve kullanım koşulların�
 
 💳 **CoinePay Platformuna Göz Atın**
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 ## 8. Google Ads Reklam Bütçesi Nasıl Yönetilir?
 
@@ -266,10 +266,10 @@ Platform bağlantısı:
 
 [https://www.trxapi.io/energy.html?lang=zh-TW](https://www.trxapi.io/energy.html?lang=zh-TW)
 
-Davet kodu: **57YQDGFU**
+Davet kodu: RT9G2YGH
 
 💳 **CoinePay Sanal Kart Platformu**
 
 Uluslararası çevrim içi ödeme çözümleri hakkında daha fazla bilgi edinmek için:
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
