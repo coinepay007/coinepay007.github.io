@@ -12,7 +12,7 @@ Bài viết này hướng dẫn chi tiết cách thanh toán Google Ads, thêm t
 
 Nếu bạn muốn tìm hiểu thêm về các giải pháp thanh toán trực tuyến, có thể tham khảo thông tin về CoinePay tại:
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 ## 1. Google Ads có những phương thức thanh toán nào?
 
@@ -185,7 +185,7 @@ Nếu bạn đang tìm hiểu về các dịch vụ thẻ ảo, có thể tham k
 
 Trang web CoinePay:
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 Trước khi đăng ký hoặc sử dụng, hãy kiểm tra phí dịch vụ, điều kiện sử dụng thẻ và khả năng tương thích với nền tảng mà bạn muốn thanh toán.
 
@@ -299,7 +299,7 @@ Tài liệu chính thức từ Google:
 
 Tìm hiểu chi tiết về dịch vụ và điều kiện sử dụng tại:
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 **TRXAPI – Dịch vụ cho thuê năng lượng TRON**
 
@@ -307,6 +307,6 @@ Dành cho người dùng mạng lưới TRON muốn tìm hiểu dịch vụ thu�
 
 [https://www.trxapi.io/energy.html?lang=zh-TW](https://www.trxapi.io/energy.html?lang=zh-TW)
 
-Mã mời TRXAPI: **57YQDGFU**
+Mã mời TRXAPI: RT9G2YGH
 
 Lưu ý: TRXAPI là dịch vụ độc lập dành cho hệ sinh thái TRON, không phải phương thức thanh toán cho Google Ads.
