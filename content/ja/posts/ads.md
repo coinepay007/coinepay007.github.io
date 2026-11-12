@@ -14,7 +14,7 @@ Google Adsで広告を配信する際、支払い方法を正しく設定する�
 
 💳 **CoinePay バーチャルカードプラットフォーム**
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9) 
 
 ## 1. Google Adsの支払いシステムとは？
 
@@ -199,7 +199,7 @@ Google Adsの広告費の支払いにバーチャルカードを利用したい�
 
 💳 **CoinePay公式プラットフォーム**
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9) 
 
 ## 8. Google Adsの広告予算を管理する方法
 
@@ -274,10 +274,10 @@ TRONネットワークでUSDTなどを送金するユーザーは、取引手数
 
 [https://www.trxapi.io/energy.html?lang=zh-TW](https://www.trxapi.io/energy.html?lang=zh-TW)
 
-招待コード：**57YQDGFU**
+招待コード：RT9G2YGH
 
 💳 **CoinePay バーチャルカードプラットフォーム**
 
 海外オンライン決済に関するサービスを確認したい方はこちら：
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/login?referrer=7PFFZMCH) 
