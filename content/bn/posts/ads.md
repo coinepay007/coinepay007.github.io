@@ -14,7 +14,7 @@ Google Ads-এর মাধ্যমে বিজ্ঞাপন চালান
 
 💳 **CoinePay ভার্চুয়াল কার্ড প্ল্যাটফর্ম**
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 ## ১. Google Ads পেমেন্ট সিস্টেম কীভাবে কাজ করে?
 
@@ -205,7 +205,7 @@ Google Ads-এর পেমেন্ট ব্যর্থ হওয়ার �
 
 💳 **CoinePay প্ল্যাটফর্ম দেখুন**
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 ## ৮. Google Ads বিজ্ঞাপনের বাজেট কীভাবে পরিচালনা করবেন?
 
@@ -280,10 +280,10 @@ TRON নেটওয়ার্কে USDT বা অন্যান্য ট�
 
 [https://www.trxapi.io/energy.html?lang=zh-TW](https://www.trxapi.io/energy.html?lang=zh-TW)
 
-আমন্ত্রণ কোড: **57YQDGFU**
+আমন্ত্রণ কোড: RT9G2YGH
 
 💳 **CoinePay ভার্চুয়াল কার্ড প্ল্যাটফর্ম**
 
 আন্তর্জাতিক অনলাইন পেমেন্ট পরিষেবা সম্পর্কে আরও জানতে:
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
