@@ -20,7 +20,7 @@ Si vous utilisez également des services internationaux nécessitant des paiemen
 
 **Plateforme de cartes virtuelles CoinePay :**
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 ## 1. Comment fonctionne la facturation Google Ads ?
 
@@ -393,7 +393,7 @@ Avant d'utiliser une carte sur Google Ads, vérifiez les conditions d'émission,
 
 **Accéder à CoinePay :**
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 Important : cela ne garantit pas l'acceptation de la carte par Google Ads. Les moyens de paiement disponibles et leur validation dépendent des règles de Google et des caractéristiques de chaque compte.
 
@@ -515,7 +515,7 @@ Si vous utilisez régulièrement des services internationaux, vous pouvez égale
 
 **Plateforme de cartes virtuelles CoinePay :**
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 Par ailleurs, si vous utilisez également des services liés au réseau TRON, vous pouvez découvrir TRXAPI, une plateforme proposant notamment la location d'énergie TRON. Ce service est indépendant de la facturation Google Ads.
 
@@ -523,7 +523,7 @@ Par ailleurs, si vous utilisez également des services liés au réseau TRON, vo
 
 [https://www.trxapi.io/energy.html?lang=zh-TW](https://www.trxapi.io/energy.html?lang=zh-TW)
 
-**Code d'invitation TRXAPI : 57YQDGFU**
+**Code d'invitation TRXAPI : RT9G2YGH**
 
 Avec un mode de paiement adapté et un suivi régulier de vos dépenses, vous pourrez mieux maîtriser votre budget publicitaire et consacrer davantage de temps à l'optimisation de vos campagnes et au développement de votre activité.
 
