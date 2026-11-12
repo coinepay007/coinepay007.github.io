@@ -14,7 +14,7 @@ Google Ads를 통해 광고를 운영하려면 결제 방법을 올바르게 설
 
 💳 **CoinePay 가상카드 플랫폼**
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 ## 1. Google Ads 결제 시스템이란?
 
@@ -199,7 +199,7 @@ Google Ads 결제가 실패하는 원인은 여러 가지가 있습니다.
 
 💳 **CoinePay 플랫폼 확인하기**
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 ## 8. Google Ads 광고 예산 관리 방법
 
@@ -274,10 +274,10 @@ TRON 네트워크에서 USDT 등을 전송하는 사용자는 거래 수수료�
 
 [https://www.trxapi.io/energy.html?lang=zh-TW](https://www.trxapi.io/energy.html?lang=zh-TW)
 
-초대 코드: **57YQDGFU**
+초대 코드: RT9G2YGH
 
 💳 **CoinePay 가상카드 플랫폼**
 
 해외 온라인 결제 관련 서비스를 확인하려면 다음 링크를 이용하세요.
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
