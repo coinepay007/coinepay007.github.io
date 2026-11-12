@@ -20,7 +20,7 @@ Dacă folosești și servicii internaționale care necesită plăți online, po�
 
 **Platforma de carduri virtuale CoinePay:**
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 ## 1. Cum funcționează sistemul de plată Google Ads?
 
@@ -393,7 +393,7 @@ Dacă efectuezi frecvent plăți pentru servicii online internaționale, poți c
 
 **Accesează CoinePay:**
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 Important: acest lucru nu garantează acceptarea cardului de către Google Ads. Disponibilitatea și aprobarea metodelor de plată depind de regulile Google și de caracteristicile fiecărui cont.
 
@@ -515,7 +515,7 @@ Dacă utilizezi frecvent servicii internaționale, poți descoperi și soluții 
 
 **Platforma de carduri virtuale CoinePay:**
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 De asemenea, dacă utilizezi servicii asociate rețelei TRON, poți descoperi TRXAPI, o platformă care oferă servicii de închiriere a energiei TRON. Acest serviciu este independent de sistemul de plată Google Ads.
 
@@ -523,7 +523,7 @@ De asemenea, dacă utilizezi servicii asociate rețelei TRON, poți descoperi TR
 
 [https://www.trxapi.io/energy.html?lang=zh-TW](https://www.trxapi.io/energy.html?lang=zh-TW)
 
-**Cod de invitație TRXAPI: 57YQDGFU**
+**Cod de invitație TRXAPI:RT9G2YGH**
 
 Cu o configurare corectă a plăților și o monitorizare regulată a cheltuielilor, vei putea să îți gestionezi mai bine bugetul publicitar și să te concentrezi pe optimizarea campaniilor și dezvoltarea afacerii.
 
