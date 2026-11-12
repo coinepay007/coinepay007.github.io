@@ -336,7 +336,7 @@ Before using any card for Google Ads, check its supported transaction types, fee
 
 **Explore CoinePay:**
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 Please note that this is not a guarantee of Google Ads acceptance. Google determines which payment methods are available for each account, and card approval is not guaranteed.
 
@@ -448,7 +448,7 @@ If you regularly pay for international online services, you can also explore vir
 
 **CoinePay Virtual Card Platform:**
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 For users who also work with TRON-based services, TRXAPI offers a separate TRON energy rental service. It is unrelated to Google Ads billing, but you can learn more about it here.
 
@@ -456,7 +456,7 @@ For users who also work with TRON-based services, TRXAPI offers a separate TRON 
 
 [https://www.trxapi.io/energy.html?lang=zh-TW](https://www.trxapi.io/energy.html?lang=zh-TW)
 
-**Invitation Code: 57YQDGFU**
+**Invitation Code: RT9G2YGH**
 
 With the right payment setup and regular budget checks, you can keep your Google Ads billing organized and focus more on what matters: improving your campaigns and growing your business.
 
