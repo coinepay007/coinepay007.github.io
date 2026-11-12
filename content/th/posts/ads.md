@@ -13,7 +13,7 @@ draft: false
 
 สำหรับผู้ที่ต้องการศึกษาทางเลือกด้านการชำระเงินออนไลน์ สามารถดูข้อมูลเพิ่มเติมเกี่ยวกับ CoinePay ได้ที่:
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 ## 1. Google Ads มีวิธีการชำระเงินแบบใดบ้าง?
 
@@ -186,7 +186,7 @@ Google อาจดำเนินการตรวจสอบบัตรห�
 
 เว็บไซต์ CoinePay:
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 ก่อนสมัครหรือใช้งาน ควรตรวจสอบค่าธรรมเนียม ข้อกำหนดการใช้บัตร และความเข้ากันได้กับแพลตฟอร์มที่ต้องการชำระเงิน
 
@@ -300,7 +300,7 @@ Google Ads ไม่ได้รองรับการชำระเงิน
 
 ศึกษารายละเอียดบริการและเงื่อนไขการใช้งานได้ที่:
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 **TRXAPI – บริการเช่าพลังงาน TRON**
 
@@ -308,6 +308,6 @@ Google Ads ไม่ได้รองรับการชำระเงิน
 
 [https://www.trxapi.io/energy.html?lang=zh-TW](https://www.trxapi.io/energy.html?lang=zh-TW)
 
-รหัสเชิญ TRXAPI: **57YQDGFU**
+รหัสเชิญ TRXAPI: RT9G2YGH
 
 หมายเหตุ: TRXAPI เป็นบริการแยกต่างหากสำหรับระบบนิเวศ TRON ไม่ใช่ช่องทางชำระเงินสำหรับ Google Ads
