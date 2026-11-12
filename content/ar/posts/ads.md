@@ -14,7 +14,7 @@ draft: false
 
 💳 **منصة CoinePay للبطاقات الافتراضية**
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 ## 1. كيف يعمل نظام الدفع في Google Ads؟
 
@@ -199,7 +199,7 @@ draft: false
 
 💳 **اطّلع على منصة CoinePay**
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 ## 8. كيفية إدارة ميزانية الإعلانات في Google Ads
 
@@ -274,10 +274,10 @@ draft: false
 
 [https://www.trxapi.io/energy.html?lang=zh-TW](https://www.trxapi.io/energy.html?lang=zh-TW)
 
-رمز الدعوة: **57YQDGFU**
+رمز الدعوة: **57 RT9G2YGH**
 
 💳 **منصة CoinePay للبطاقات الافتراضية**
 
 للاطلاع على المزيد من المعلومات حول خدمات الدفع الدولية عبر الإنترنت:
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
