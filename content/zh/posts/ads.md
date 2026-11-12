@@ -15,7 +15,7 @@ Google Ads 是许多企业和个人开展海外推广的重要广告平台。无
 如果你经常需要使用银行卡支付海外网站或在线服务，也可以提前了解 CoinePay 虚拟卡平台，作为日常跨境支付工具的一个选择。具体能否用于 Google Ads，仍需要以 Google Ads 账户实际显示的付款选项和平台审核结果为准。
 
 **CoinePay 虚拟卡平台：**  
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+++[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)++
 
 ## 一、Google Ads 有哪些付款方式？
 
@@ -132,7 +132,7 @@ Google Ads 的付款方式通常与账户的账单国家和币种有关。不同
 
 CoinePay 平台入口：
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+++[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)++
 
 ## 三、2027年 Google Ads 添加银行卡教程
 
@@ -393,7 +393,7 @@ Google Ads 的付款方式会受到账单国家和币种影响。
 
 CoinePay 入口：
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 ## 八、Google Ads 充值常见问题 FAQ
 
@@ -473,11 +473,11 @@ Google Ads 的充值流程并不复杂，关键是先确认账户的付款设置
 
 [https://www.trxapi.io/energy.html?lang=zh-TW](https://www.trxapi.io/energy.html?lang=zh-TW)
 
-**TRXAPI 邀请码：57YQDGFU**
+**TRXAPI 邀请码：RT9G2YGH**
 
 **CoinePay 虚拟卡平台：**
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 希望这篇教程能够帮助你顺利完成 Google Ads 付款设置和广告充值，让后续的广告投放更加顺畅。
 
