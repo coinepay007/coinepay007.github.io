@@ -18,7 +18,7 @@ TikTok 已经成为许多跨境电商、独立站卖家、品牌商家和内容�
 
 👉 访问 CoinePay：
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 ## ⚡ TRXAPI — TRON 网络能量租赁服务
 
@@ -26,9 +26,9 @@ TRXAPI 提供 TRON 网络能量租赁相关服务，适用于有 TRON 链上交�
 
 👉 TRXAPI 能量租赁入口：
 
-[https://www.trxapi.io/energy.html?lang=zh-TW](https://www.trxapi.io/energy.html?lang=zh-TW)
+[https://login.trxapi.io/energy](https://login.trxapi.io/energy)
 
-邀请码：**57YQDGFU**
+邀请码：**RT9G2YGH**
 
 ## 一、TikTok Ads 是什么？
 
@@ -191,7 +191,7 @@ Ad 是用户最终看到的广告内容。
 - 行动号召按钮。
 - 目标网址或其他转化入口。
 
-一个 Ad Group 可以包含多个广告素材，方便测试不同视频和文案的效果。
+一个 Ad Group 可以包含多个广告素材，方便测试不同视频和文案。
 
 简单来说：
 
@@ -532,7 +532,7 @@ TikTok Ads 会根据广告账户的账单地区和币种提供不同付款选项
 
 如果你正在了解海外线上支付工具，可以查看 CoinePay 的相关服务：
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 具体是否适合 TikTok Ads，仍需要以 CoinePay 的实际卡片类型、TikTok 当前支持的付款方式和账户验证结果为准。不要在未确认兼容性的情况下直接充值大额资金。
 
@@ -699,7 +699,7 @@ TikTok 商业服务和广告业务官方入口：
 
 👉 访问 CoinePay：
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 **⚡ TRXAPI — TRON 网络能量租赁服务**
 
@@ -707,6 +707,6 @@ TikTok 商业服务和广告业务官方入口：
 
 👉 TRXAPI 能量租赁入口：
 
-[https://www.trxapi.io/energy.html?lang=zh-TW](https://www.trxapi.io/energy.html?lang=zh-TW)
+[https://login.trxapi.io/energy](https://login.trxapi.io/energy)
 
-邀请码：**57YQDGFU**
+邀请码：**RT9G2YGH**
