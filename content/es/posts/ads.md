@@ -20,7 +20,7 @@ Si también utilizas servicios internacionales que requieren pagos online, puede
 
 **Plataforma de tarjetas virtuales CoinePay:**
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 ## 1. ¿Cómo funcionan los pagos de Google Ads?
 
@@ -513,7 +513,7 @@ Si utilizas habitualmente servicios internacionales, también puedes conocer her
 
 **Plataforma de tarjetas virtuales CoinePay:**
 
-[https://www.coinepay.net/login?referrer=7PFFZMCH](https://www.coinepay.net/login?referrer=7PFFZMCH)
+[https://www.coinepay.net/register?referrer=RFGSSDZ9](https://www.coinepay.net/register?referrer=RFGSSDZ9)
 
 Por otro lado, si también utilizas servicios relacionados con la red TRON, puedes consultar TRXAPI, una plataforma que ofrece servicios de alquiler de energía TRON. Este servicio es independiente de los pagos de Google Ads.
 
@@ -521,7 +521,7 @@ Por otro lado, si también utilizas servicios relacionados con la red TRON, pued
 
 [https://www.trxapi.io/energy.html?lang=zh-TW](https://www.trxapi.io/energy.html?lang=zh-TW)
 
-**Código de invitación TRXAPI: 57YQDGFU**
+**Código de invitación TRXAPI: RT9G2YGH**
 
 Con una configuración de pago adecuada y un seguimiento regular del presupuesto, podrás gestionar mejor tus gastos publicitarios y dedicar más tiempo a optimizar tus campañas y hacer crecer tu negocio.
 
